@@ -1,0 +1,26 @@
+
+		<header class="masthead">
+
+			<div class="container">
+
+				<div class="branding">
+
+					<h1><a href="/">MasterWP Weekly</a></h1>
+					<h2>A concise and carefully curated email to enjoy every week.</h2>
+
+				</div>
+
+				<div class="banner">
+
+					<h2>{{ page.title | escape }}</h2>
+
+					{{ page.intro | markdownify }}
+
+					{% if page.newsletter %}
+						{% include newsletter.html %}
+					{% endif %}
+				</div>
+
+			</div>
+
+		</header>
