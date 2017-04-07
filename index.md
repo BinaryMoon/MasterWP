@@ -7,5 +7,5 @@ intro: |
   No affiliates, no filler, no noise, just the good stuff.
 
   You're in good company: sign up now to join **304** other subscribers. Plus, it's free, and you can unsubscribe any time :)
-newsletter: true
+intro_include: newsletter.html
 ---

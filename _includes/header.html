@@ -3,6 +3,8 @@
 
 			<div class="container">
 
+				{% include navigation.html %}
+
 				<div class="branding">
 
 					<h1><a href="/">Master<span>WP</span> Weekly</a></h1>
@@ -16,9 +18,10 @@
 
 					{{ page.intro | markdownify }}
 
-					{% if page.newsletter %}
-						{% include newsletter.html %}
+					{% if page.intro_include %}
+						{% include {{ page.intro_include }} %}
 					{% endif %}
+
 				</div>
 
 			</div>
