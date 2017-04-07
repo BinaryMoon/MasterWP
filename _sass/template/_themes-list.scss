@@ -1,0 +1,19 @@
+.themes-list {
+
+	.theme {
+
+		float: left;
+		width: 25%;
+		padding: $grid-line-height ( $grid-gutter / 2 );
+		text-align: center;
+
+		.theme-name {
+
+			display: block;
+			@include post-meta-data;
+
+		}
+
+	}
+
+}
