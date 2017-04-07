@@ -6,10 +6,18 @@ description: >
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: prothemedesign
-github_username:  binarymoon
+github_username: binarymoon
+permalink: /blog/:year/:title/
+#google_analytics: UA-55722-3
 
 # Build settings
 markdown: kramdown
+
+# SEO
+twitter:
+  username: binarymoon
+#webmaster_verifications:
+#  google: jpX5pDZ1_vsfHTm74TkvqTO5U5hjbpzsj6gnjuVeQXs
 
 # Collections
 collections:
