@@ -5,9 +5,18 @@
 @import "_mixins";
 @import "_variables";
 
+// Reusable library of css stuff.
+// Loosely based on: https://github.com/binarymoon/__sass
 @import "lib/_variables";
 @import "lib/_mixins";
 @import "lib/_components";
 
+// Template elements
+@import "template/_header";
+@import "template/_footer";
+@import "template/_people";
+@import "template/_newsletter";
+
+// Everything else that doesn't fit in the template files.
 @import "_layout";
 @import "_responsive";

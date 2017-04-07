@@ -1,0 +1,187 @@
+
+.masthead {
+
+	margin-bottom: $grid-line-height * 2;
+	position: relative;
+
+	nav {
+
+		@include post-meta-data;
+		margin-bottom: $grid-line-height * 3.5;
+		text-align: center;
+
+		a {
+
+			display: inline-block;
+			padding: ( $grid-line-height / 2 ) ( $grid-gutter / 2 );
+
+		}
+
+	}
+
+	> * {
+
+		position: relative;
+		z-index: 1;
+
+	}
+
+	&:before {
+
+		content: '';
+		position: absolute;
+		top: 0;
+		left: 0;
+		right: 0;
+		height: 70%;
+		min-height: $grid-line-height * 17;
+		background: $canvas-color url( ../images/masthead.png?#{$decache} ) top center no-repeat;
+		background-size: contain;
+		z-index: 0;
+
+	}
+
+	.branding {
+
+		text-align: center;
+		padding: 0 ( $grid-gutter ) ( $grid-line-height * 3 ) ( $grid-gutter );
+
+		h1 {
+
+			@include modular-scale( gamma );
+			margin: 0 0 ( $grid-line-height / 4 ) 0;
+			display: inline-block;
+
+			span {
+
+				font-weight: bold;
+
+			}
+
+			a {
+
+				text-decoration: none;
+
+				&:hover {
+
+					text-decoration: underline;
+
+				}
+
+			}
+
+		}
+
+		h2 {
+
+			@include modular-scale( zeta );
+
+		}
+
+		img {
+
+			max-height: 2.5rem;
+			margin-right: $grid-gutter / 2;
+			display: inline-block;
+			vertical-align: sub;
+
+		}
+
+		p {
+
+			margin: 0;
+
+			&.sub {
+
+				@include post-meta-data;
+
+			}
+
+		}
+
+	}
+
+	.sub-header {
+
+		text-align: center;
+		padding-bottom: $grid-line-height * 2;
+
+	}
+
+	.banner {
+
+		background: $canvas-white;
+		padding: ( $grid-line-height * $grid-line-height-multiplier ) $grid-gutter;
+		box-shadow: 0 0.5em 1em rgba(0,0,0,0.1);
+		width: 60%;
+		margin: 0 auto;
+
+		h2 {
+
+			@include modular-scale( delta );
+
+		}
+
+		h3 {
+
+			@include modular-scale( epsilon );
+			margin-bottom: 0;
+
+		}
+
+		.newsletter {
+
+			margin-bottom: $grid-line-height * -3.5;
+			padding-top: $grid-line-height;
+
+			input[type=submit] {
+
+				margin: 0;
+				width: 100%;
+
+			}
+
+			small {
+
+				display: block;
+				text-align: center;
+				margin-top: $grid-line-height / 4;
+
+			}
+
+
+		}
+
+		&.iframe-wrapper {
+
+			padding-bottom: 22.6%;
+
+		}
+
+	}
+
+	.preorder {
+
+		display: flex;
+
+		.banner {
+
+			float: left;
+			margin: 0;
+			width: 50%;
+
+		}
+
+		.button {
+
+		}
+
+		ul.large {
+
+			@include modular-scale( epsilon );
+
+		}
+
+	}
+
+}

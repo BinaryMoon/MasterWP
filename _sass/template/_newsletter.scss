@@ -1,0 +1,56 @@
+
+.newsletter {
+
+	@include modular-scale( zeta );
+
+	label {
+
+		span {
+
+			display: block;
+			z-index: 10;
+			position: relative;
+			padding: 0 ( $grid-gutter / 4 );
+			width: 5em;
+			text-align: right;
+			height: 0;
+			transform: translateY( $grid-line-height / 2 );
+
+		}
+
+	}
+
+	input[type=text],
+	input[type=email] {
+
+		font-weight: normal;
+		padding-left: 5em;
+
+	}
+
+	p {
+
+		@include modular-scale( epsilon );
+
+	}
+
+	.sub {
+
+		@include modular-scale( eta );
+
+	}
+
+	.sup {
+
+		margin-bottom: 0;
+
+	}
+
+	// Make the newsletter in the intro overlap.
+	.intro & {
+
+		padding-top: $grid-line-height * $grid-line-height-multiplier;
+
+	}
+
+}
