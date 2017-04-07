@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<section class="intro">
+<section class="themes-list">
 
 	<div class="content">
 
@@ -10,7 +10,8 @@ layout: default
 		<div class="theme">
 			<a href="{{ theme.url | relative_url }}" class="theme-url">
 				<div class="theme-icon-wrapper">
-					<img src="" class="theme-icon" />
+					{{theme.file}}
+					<img src="{{ "/assets/themes/icons/" | relative_url }}{{ theme.title | slugify }}.png" class="theme-icon" />
 				</div>
 				<span class="theme-name">{{ theme.title | escape }}</span>
 			</a>
