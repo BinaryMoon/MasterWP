@@ -11,6 +11,19 @@ github_username:  binarymoon
 # Build settings
 markdown: kramdown
 
+# Collections
+collections:
+  themes:
+    output: true
+    permalink: /themes/:name/
+
+# Default properties
+defaults:
+  - scope:
+      type: themes
+    values:
+      layout: theme
+
 gems:
   - jekyll-seo-tag
   - jekyll-redirect-from
