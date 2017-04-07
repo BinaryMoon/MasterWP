@@ -1,5 +1,5 @@
 ---
 title: Themes
-permalink: /themes/
+permalink: /wordpress-themes/
 layout: themes
 ---

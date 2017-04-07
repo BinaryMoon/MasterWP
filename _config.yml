@@ -23,7 +23,7 @@ twitter:
 collections:
   themes:
     output: true
-    permalink: /themes/:name/
+    permalink: /wordpress-themes/:name/
 
 # Default properties
 defaults:
