@@ -7,7 +7,6 @@
 	nav {
 
 		@include post-meta-data;
-		margin-bottom: $grid-line-height * 3.5;
 		text-align: center;
 
 		a {
@@ -44,7 +43,7 @@
 	.branding {
 
 		text-align: center;
-		padding: 0 ( $grid-gutter ) ( $grid-line-height * 3 ) ( $grid-gutter );
+		padding: ( $grid-line-height * 2.5 ) $grid-gutter ( $grid-line-height * 3 ) ( $grid-gutter );
 
 		h1 {
 

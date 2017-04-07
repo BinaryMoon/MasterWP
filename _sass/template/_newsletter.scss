@@ -20,11 +20,25 @@
 
 	}
 
+	.mc-field-group {
+
+		margin-bottom: $grid-line-height;
+
+	}
+
+	div.mce_inline_error {
+
+		@include post-meta-data;
+		color: $canvas-red;
+
+	}
+
 	input[type=text],
 	input[type=email] {
 
 		font-weight: normal;
 		padding-left: 5em;
+		margin-bottom: 0;
 
 	}
 
@@ -50,6 +64,16 @@
 	.intro & {
 
 		padding-top: $grid-line-height * $grid-line-height-multiplier;
+
+	}
+
+	.response {
+
+		margin-top: $grid-line-height / 2;
+		padding: ( $grid-line-height / 2 ) ( $grid-gutter / 2 );
+		background: $canvas-color;
+		border-radius: $border-radius;
+		display: none;
 
 	}
 
