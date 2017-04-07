@@ -6,7 +6,7 @@ intro: |
 
   No affiliates, no filler, no noise, just the good stuff.
 
-  You're in good company: sign up now to join **304** other subscribers. Plus, it's free, and you can unsubscribe any time :)
+  You're in good company: sign up now to join **324** other subscribers. Plus, it's free, and you can unsubscribe any time :)
 intro_include: newsletter.html
 redirect_from:
   - /newsletter/
