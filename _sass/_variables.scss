@@ -79,6 +79,7 @@ $font-sizes: (
 // z-index layer positions
 $layer: (
 	base: 1,
+	nl_list: 25,
 	showcase_nav: 50,
 	infinite_footer: 50,
 	menu_dropdown: 100,
@@ -86,3 +87,5 @@ $layer: (
 );
 
 $decache: 1;
+
+$box-shadow: 0 0.5em 1em rgba(0,0,0,0.1);

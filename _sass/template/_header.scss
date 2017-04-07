@@ -112,7 +112,7 @@
 
 		background: $canvas-white;
 		padding: ( $grid-line-height * $grid-line-height-multiplier ) $grid-gutter;
-		box-shadow: 0 0.5em 1em rgba(0,0,0,0.1);
+		box-shadow: $box-shadow;
 		width: 60%;
 		margin: 0 auto;
 
