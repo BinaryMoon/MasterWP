@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<section class="intro">
+
+	<div class="content">
+
+		{% for theme in site.themes %}
+		<div class="theme">
+			<a href="{{ theme.url | relative_url }}" class="theme-url">
+				<div class="theme-icon-wrapper">
+					<img src="" class="theme-icon" />
+				</div>
+				<span class="theme-name">{{ theme.title | escape }}</span>
+			</a>
+		</div>
+		{% endfor %}
+
+	</div>
+
+</section>
