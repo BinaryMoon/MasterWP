@@ -6,7 +6,7 @@
 /* global $, MWP_NaturalLanguageForm */
 
 /**
- * 
+ *
  */
 var MWP_NaturalLanguageForm = (function() {
 
@@ -51,7 +51,9 @@ var MWP_NaturalLanguageForm = (function() {
 			// When the selected item is clicked display the options.
 			$selected.on(
 				'click',
-				function() {
+				function( e ) {
+
+					e.preventDefault();
 
 					// Hide all menus.
 					hideOptionBoxes();
@@ -66,7 +68,9 @@ var MWP_NaturalLanguageForm = (function() {
 			// When an option is selected update the displayed text.
 			$options.find( 'a' ).on(
 				'click',
-				function() {
+				function( e ) {
+
+					e.preventDefault();
 
 					var $this = $( this );
 					var $parent = $this.closest( '.nl-inline' );
