@@ -1,45 +1,20 @@
-/**
- * main.js v1
- */
+---
+---
+{% include_relative mwp-smooth-scroll.js %}
 
 ;( function( window, document, $ ) {
 
-    'use strict';
+	'use strict';
 
-    /**
-     * Smooth scroll to # anchor
-     *
-     * @param  object e Element.
-     * @return false
-     */
-    var scroll_to_hash = function( e ) {
+	/**
+	 * Do all the stuffs.
+	 */
+	$( document ).ready(
+		function() {
 
-        var $target = $( e.hash );
+			MWP_SmoothScroll.init();
 
-        if ( $target.length ) {
-            var targetOffset = $target.offset().top - parseInt( $( 'html' ).css( 'margin-top' ) );
-            $( 'html,body' ).animate( { scrollTop: targetOffset }, 750 );
-            focus_element( e.hash );
-        }
-
-        return false;
-
-    };
-
-
-    /**
-     * Do all the stuffs.
-     */
-    $( document ).ready( function() {
-
-        // smooth scroll to element
-
-        $( '.scroll-to' ).click( function() {
-
-            return scroll_to_hash( this );
-
-        } );
-
-    } );
+		}
+	);
 
 } )( window, document, jQuery );
