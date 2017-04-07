@@ -1,5 +1,12 @@
 /**
- *
+ * [MWP_NaturalLanguageForm description]
+ * @type {[type]}
+ */
+
+/* global $, MWP_NaturalLanguageForm */
+
+/**
+ * 
  */
 var MWP_NaturalLanguageForm = (function() {
 
