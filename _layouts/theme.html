@@ -4,6 +4,8 @@ layout: default
 
 	<div class="content">
 
-	{{ content }}
+		<img src="{{ "/assets/themes/" | relative_url }}{{ page.title | slugify }}/screenshot.png" class="theme-screenshot" />
+
+		{{ content }}
 
 	</div>
