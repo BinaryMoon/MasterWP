@@ -33,6 +33,7 @@ The supported theme tags are:
 * portfolio
 * restaurant
 * charity
+
 **Theme Features**
 * woo-commerce
 * jetpack
