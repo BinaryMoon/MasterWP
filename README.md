@@ -17,7 +17,8 @@ The file should contain all of the properties needed to describe a theme. An exa
 ```
 ---
 title: Theme Name
-theme_url: http://urlForMoreThemeInformation.com
+theme_info_url: http://urlForMoreThemeInformation.com
+theme_demo_url: http://urlForMoreThemeDemo.com
 developer: prothemedesign
 intro: A one sentence description of the theme.
 tags: magazine slider
