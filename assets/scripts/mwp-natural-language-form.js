@@ -76,13 +76,22 @@ var MWP_NaturalLanguageForm = (function() {
 					var $parent = $this.closest( '.nl-inline' );
 
 					var itemText = $this.text();
-					var itemValue = $this.val();
+					var itemValue = $this.data( 'value' );
 
+					// Hide the options.
 					hideOptionBoxes();
 
+					// Set select box selected property so that we can access the property through code.
+					$parent.find( 'option[value=' + itemValue + ']' ).prop( 'selected', true );
+
+					// Change the visible values.
 					$parent.find( '.nl-selected' )
 						.text( itemText )
 						.data( 'value', itemValue );
+
+					// Trigger a property change.
+					// We hook into this in the MWP_FilterThemes class.
+					$( 'body' ).trigger( 'nl:change' );
 
 				}
 			)
