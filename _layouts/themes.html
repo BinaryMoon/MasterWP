@@ -11,8 +11,8 @@ layout: default
 			data-price="{{ theme.price }}"
 			data-name="{{ theme.title }}"
 			data-screenshot="{{ "/assets/themes/screenshots/" | relative_url }}{{ theme.title | slugify }}.png"
-			data-short-description="{{ theme.short_description }}"
-			data-tags="{{ theme.tags }}"
+			data-short-description="{{ theme.intro }}"
+			data-tags="{{ theme.theme_tags }}"
 		>
 			<a href="{{ theme.url | relative_url }}" class="theme-url">
 				<div class="theme-icon-wrapper">
