@@ -3,16 +3,25 @@
  */
 var MWP_FilterThemes = (function() {
 
+	// The themes on the page.
+	var $themes = [];
+
+	// Error message. Displays when there are no themes to show.
+	var $errorBox = null;
+
+
 	/**
 	 * Filter the visibility of the themes.
 	 */
 	var filter = function() {
 
+		// Get properties.
 		var type = $( 'select.theme-type' ).val();
 		var feature1 = $( 'select.theme-feature-1' ).val();
 		var feature2 = $( 'select.theme-feature-2' ).val();
+
+		// List of tags based on the properties collected above.
 		var theme_tags = [];
-		var $themes = $( '.themes-list .theme' );
 
 		// Make sure user has selected a theme type.
 		if ( type !== 'any' ) {
@@ -31,26 +40,31 @@ var MWP_FilterThemes = (function() {
 
 		// Quit early if there's nothing to test.
 		if ( theme_tags.length <= 0 ) {
+			// Nothing to test so display all themes.
 			$themes.show();
+			// Hide the error box.
+			displayError();
 			return;
 		}
 
-		// Hide all themes.
-		$themes.hide();
-
+		// Loop through all themes and then show or hide them based on what properties have been selected.
 		$themes.each(
 			function() {
 
 				var $this = $( this );
 				var properties = $this.data( 'tags' ).split( ' ' );
 
-				//console.log( 'compare', theme_tags, properties, compareArrays( theme_tags, properties ) );
+				// A theme has to have all selected theme tags to be displayed.
 				if ( compareArrays( theme_tags, properties ) ) {
 					$this.show();
+				} else {
+					$this.hide();
 				}
 
 			}
 		);
+
+		displayError();
 
 	}
 
@@ -91,6 +105,22 @@ var MWP_FilterThemes = (function() {
 
 	}
 
+
+	/**
+	 * Show or hide an error message depending upon if there are any themes to display or not.
+	 */
+	var displayError = function() {
+
+		var count = $themes.find( ':visible' ).length;
+
+		if ( count > 0 ) {
+			$errorBox.hide();
+		} else {
+			$errorBox.show();
+		}
+
+	}
+
 	/**
 	 * Initialise the filtering.
 	 */
@@ -106,6 +136,12 @@ var MWP_FilterThemes = (function() {
 
 			}
 		);
+
+		// Grab themes list.
+		$themes = $( '.themes-list .theme' );
+
+		// Grab the message box deets.
+		$errorBox = $( '.message.no-themes' );
 
 	}
 
