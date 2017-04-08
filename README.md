@@ -21,7 +21,7 @@ theme_info_url: http://urlForMoreThemeInformation.com
 theme_demo_url: http://urlForMoreThemeDemo.com
 developer: prothemedesign
 intro: A one sentence description of the theme.
-tags: magazine slider
+theme_tags: magazine slider
 ---
 Theme description in markdown format - HTML is also supported.
 ```
