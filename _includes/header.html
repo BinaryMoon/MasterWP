@@ -12,19 +12,6 @@
 
 				</div>
 
-				{% if page.intro %}
-				<div class="banner">
-
-					<h2>{{ page.title | escape }}</h2>
-
-					{{ page.intro | markdownify }}
-
-					{% if page.intro_include %}
-						{% include {{ page.intro_include }} %}
-					{% endif %}
-
-				</div>
-				{% endif %}
 			</div>
 
 		</header>
