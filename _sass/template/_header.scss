@@ -33,7 +33,7 @@
 		left: 0;
 		right: 0;
 		height: 70%;
-		min-height: $grid-line-height * 17;
+		min-height: $grid-line-height * 28;
 		background: $canvas-color url( ../images/masthead.png?#{$decache} ) top center no-repeat;
 		background-size: contain;
 		z-index: 0;
@@ -43,7 +43,7 @@
 	.branding {
 
 		text-align: center;
-		padding: ( $grid-line-height * 2.5 ) $grid-gutter ( $grid-line-height * 3 ) ( $grid-gutter );
+		padding: ( $grid-line-height * 4 ) $grid-gutter ( $grid-line-height * 3 ) ( $grid-gutter );
 
 		h1 {
 
@@ -95,65 +95,6 @@
 				@include post-meta-data;
 
 			}
-
-		}
-
-	}
-
-	.sub-header {
-
-		text-align: center;
-		padding-bottom: $grid-line-height * 2;
-
-	}
-
-	.banner {
-
-		background: $canvas-white;
-		padding: ( $grid-line-height * $grid-line-height-multiplier ) $grid-gutter;
-		box-shadow: $box-shadow;
-		width: 60%;
-		margin: 0 auto;
-
-		h2 {
-
-			@include modular-scale( delta );
-
-		}
-
-		h3 {
-
-			@include modular-scale( epsilon );
-			margin-bottom: 0;
-
-		}
-
-		.newsletter {
-
-			margin-bottom: $grid-line-height * -3.5;
-			padding-top: $grid-line-height;
-
-			input[type=submit] {
-
-				margin: 0;
-				width: 100%;
-
-			}
-
-			small {
-
-				display: block;
-				text-align: center;
-				margin-top: $grid-line-height / 4;
-
-			}
-
-
-		}
-
-		&.iframe-wrapper {
-
-			padding-bottom: 22.6%;
 
 		}
 

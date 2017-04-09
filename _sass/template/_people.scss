@@ -1,6 +1,5 @@
 .people {
 
-	background: lighten( $canvas-color, 5% );
 	position: relative;
 	display: flex;
 	@include clear;
@@ -11,9 +10,15 @@
 		width: 50%;
 		float: left;
 
+		&:nth-child( 1 ) {
+
+			background: lighten( $canvas-color, 8% );
+
+		}
+
 		&:nth-child( 2 ) {
 
-			background: $canvas-color;
+			background: lighten( $canvas-color, 5% );
 
 		}
 

@@ -2,6 +2,7 @@
 
 	@include modular-scale( epsilon );
 	line-height: 2;
+	margin-bottom: $grid-line-height * 2;
 
 	.nl-select {
 

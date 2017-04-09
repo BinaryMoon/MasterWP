@@ -1,0 +1,19 @@
+
+.content {
+
+	padding: ( $grid-line-height * $grid-line-height-multiplier * 2 ) 10%;
+	@include modular-scale( epsilon );
+	@include container;
+	clear: both;
+	background: $canvas-white;
+	box-shadow: $box-shadow;
+	margin-bottom: $grid-line-height * $grid-line-height-multiplier * 2;
+
+	h1, h2 {
+
+		@include modular-scale( gamma );
+		margin-bottom: $grid-line-height * $grid-line-height-multiplier;
+
+	}
+
+}

@@ -1,5 +1,7 @@
 .themes-list {
 
+	margin-left: $grid-gutter * -0.5;
+	margin-right: $grid-gutter * -0.5;
 	@include clear;
 
 	.theme {
