@@ -1,0 +1,16 @@
+body.theme {
+
+	.intro {
+
+		@include modular-scale( delta );
+		margin-bottom: $grid-line-height * $grid-line-height-multiplier * 2;
+
+	}
+
+	.theme-screenshot {
+
+		margin-bottom: $grid-line-height * $grid-line-height-multiplier;
+
+	}
+
+}
