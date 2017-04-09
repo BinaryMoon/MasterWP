@@ -10,6 +10,15 @@ var MWP_ThemeList = (function() {
 	 */
 	var showThemeInfo = function( what ) {
 
+		var $what = $( what );
+		var $screenshot = $what.find( '.theme-hover img' );
+
+		// If there's no image source then replace it with the data source.
+		// Acts as lazy loading so we don't load all the screenshots at once.
+		if ( ! $screenshot.attr( 'src' ) ) {
+			$screenshot.attr( 'src', $screenshot.data( 'src' ) );
+		}
+
 		$( what ).find( '.theme-hover' ).show();
 
 	}
