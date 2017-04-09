@@ -24,6 +24,9 @@ collections:
   themes:
     output: true
     permalink: /wordpress-themes/:name/
+  theme-developers:
+    output: true
+    permalink: /wordpress-theme-developers/:name/
 
 # Default properties
 defaults:
@@ -31,6 +34,10 @@ defaults:
       type: themes
     values:
       layout: theme
+  - scope:
+      type: theme-developers
+    values:
+      layout: theme-developer
 
 gems:
   - jekyll-seo-tag
