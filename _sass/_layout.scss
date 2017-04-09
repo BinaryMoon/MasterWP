@@ -1,3 +1,10 @@
+body {
+
+	background: $canvas-color url( ../images/masthead.png?#{$decache} ) top center no-repeat;
+	background-size: contain;
+
+}
+
 a {
 
 	color: $canvas-blue;

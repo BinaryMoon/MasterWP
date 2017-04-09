@@ -25,25 +25,6 @@
 
 			width: auto;
 
-			&:before {
-
-				width: 100%;
-
-			}
-
-		}
-
-		.banner {
-
-			float: none;
-			width: 100%;
-
-			&.iframe-wrapper {
-
-				padding-bottom: 51.4%;
-
-			}
-
 		}
 
 	}
@@ -61,31 +42,16 @@
 
 	.masthead {
 
-		padding-top: $grid-line-height * 1.5;
-
 		.container {
 
 			padding: 0;
 
 		}
 
-		.preorder {
-
-			flex-direction: column;
-
-			.banner {
-
-				width: 100%;
-
-			}
-
-		}
 
 		.branding {
 
-			padding-left: 0;
-			padding-right: 0;
-			padding-bottom: $grid-line-height * 1.5;
+			padding: ( $grid-line-height * $grid-line-height-multiplier) 0;
 
 			h1{
 
@@ -95,11 +61,11 @@
 
 		}
 
-		&:before {
+	}
 
-			background-image: none;
+	body {
 
-		}
+		background-image: none;
 
 	}
 

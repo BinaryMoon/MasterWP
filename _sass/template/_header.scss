@@ -7,12 +7,20 @@
 
 		@include post-meta-data;
 		text-align: center;
+		background: $canvas-red;
 
 		a {
 
 			display: inline-block;
 			padding: ( $grid-line-height / 2 ) ( $grid-gutter / 2 );
-			color: $canvas-grey-100;
+			color: $canvas-white;
+
+		}
+
+		span {
+
+			color: $canvas-white;
+			opacity: 0.4;
 
 		}
 
@@ -22,21 +30,6 @@
 
 		position: relative;
 		z-index: 1;
-
-	}
-
-	&:before {
-
-		content: '';
-		position: absolute;
-		top: 0;
-		left: 0;
-		right: 0;
-		height: 70%;
-		min-height: $grid-line-height * 28;
-		background: $canvas-color url( ../images/masthead.png?#{$decache} ) top center no-repeat;
-		background-size: contain;
-		z-index: 0;
 
 	}
 
