@@ -1,7 +1,6 @@
 
 .masthead {
 
-	margin-bottom: $grid-line-height * 2;
 	position: relative;
 
 	nav {
@@ -155,30 +154,6 @@
 		&.iframe-wrapper {
 
 			padding-bottom: 22.6%;
-
-		}
-
-	}
-
-	.preorder {
-
-		display: flex;
-
-		.banner {
-
-			float: left;
-			margin: 0;
-			width: 50%;
-
-		}
-
-		.button {
-
-		}
-
-		ul.large {
-
-			@include modular-scale( epsilon );
 
 		}
 
