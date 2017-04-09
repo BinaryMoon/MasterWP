@@ -3,43 +3,47 @@ layout: default
 body_class: themes
 ---
 
-<div class="content">
+	<div class="content highlight">
 
-	<h1>WordPress Theme Finder</h1>
+		<h1>WordPress Theme Finder</h1>
 
-	{% include theme-filter.html %}
+		{% include theme-filter.html %}
 
-	<section class="themes-list">
+	</div>
 
-		{% for theme in site.themes %}
-		<div class="theme"
-			data-price="{{ theme.price }}"
-			data-name="{{ theme.title }}"
-			data-screenshot="{{ "/assets/themes/screenshots/" | relative_url }}{{ theme.title | slugify }}.png"
-			data-short-description="{{ theme.intro }}"
-			data-tags="{{ theme.theme_tags }}"
-		>
-			<a href="{{ theme.url | relative_url }}" class="theme-url">
-				<div class="theme-icon-wrapper">
-					<img src="{{ "/assets/themes/" | relative_url }}{{ theme.title | slugify }}/icon.png" class="theme-icon" />
-				</div>
-				<h2 class="theme-name">{{ theme.title | escape }}</h2>
-			</a>
+	<div class="content">
 
-			<div class="theme-hover">
-				<img data-src="{{ "/assets/themes/" | relative_url }}{{ theme.title | slugify }}/screenshot.png" class="theme-screenshot" />
-				<div class="theme-info">
-					<span class="theme-name">{{ theme.title | escape }} <em class="theme-price">${{ theme.price | escape }}</em></span>
-					<span class="theme-description">{{ theme.intro | escape }}</span>
+		<section class="themes-list">
+
+			{% for theme in site.themes %}
+			<div class="theme"
+				data-price="{{ theme.price }}"
+				data-name="{{ theme.title }}"
+				data-screenshot="{{ "/assets/themes/screenshots/" | relative_url }}{{ theme.title | slugify }}.png"
+				data-short-description="{{ theme.intro }}"
+				data-tags="{{ theme.theme_tags }}"
+			>
+				<a href="{{ theme.url | relative_url }}" class="theme-url">
+					<div class="theme-icon-wrapper">
+						<img src="{{ "/assets/themes/" | relative_url }}{{ theme.title | slugify }}/icon.png" class="theme-icon" />
+					</div>
+					<h2 class="theme-name">{{ theme.title | escape }}</h2>
+				</a>
+
+				<div class="theme-hover">
+					<img data-src="{{ "/assets/themes/" | relative_url }}{{ theme.title | slugify }}/screenshot.png" class="theme-screenshot" />
+					<div class="theme-info">
+						<span class="theme-name">{{ theme.title | escape }} <em class="theme-price">${{ theme.price | escape }}</em></span>
+						<span class="theme-description">{{ theme.intro | escape }}</span>
+					</div>
 				</div>
 			</div>
-		</div>
-		{% endfor %}
+			{% endfor %}
 
-		<div class="no-themes message error" style="display: none;">
-			Sorry - no themes here match your requirements.
-		</div>
+			<div class="no-themes message error" style="display: none;">
+				Sorry - no themes here match your requirements.
+			</div>
 
-	</section>
+		</section>
 
-</div>
+	</div>
