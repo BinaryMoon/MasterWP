@@ -74,5 +74,6 @@ svg {
 
 .page-content {
 
-	margin-bottom: $grid-line-height * $grid-line-height * 2;
+	margin-bottom: $grid-line-height * $grid-line-height-multiplier * 2;
+
 }
