@@ -5,9 +5,19 @@
 	@include modular-scale( epsilon );
 	@include container;
 	clear: both;
-	background: $canvas-white;
-	box-shadow: $box-shadow;
-	margin-bottom: $grid-line-height * $grid-line-height-multiplier * 2;
+	background: lighten( $canvas-color, 4% );
+
+	p:last-child {
+
+		margin-bottom: 0;
+
+	}
+
+	&.highlight {
+
+		background: $canvas-white;
+
+	}
 
 	h1, h2 {
 

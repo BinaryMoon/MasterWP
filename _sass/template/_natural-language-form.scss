@@ -2,7 +2,6 @@
 
 	@include modular-scale( epsilon );
 	line-height: 2;
-	margin-bottom: $grid-line-height * 2;
 
 	.nl-select {
 
@@ -14,6 +13,9 @@
 
 		display: inline-block;
 		position: relative;
+		background: $canvas-grey-5;
+		padding: 0 0.3em;
+		border-bottom: 2px dashed $canvas-red;
 
 		ul {
 
@@ -56,7 +58,6 @@
 
 			color: $canvas-blue;
 			font-weight: bold;
-			border-bottom: 2px dashed $canvas-red;
 
 			&:hover {
 
