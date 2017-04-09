@@ -16,11 +16,18 @@ layout: default
 		>
 			<a href="{{ theme.url | relative_url }}" class="theme-url">
 				<div class="theme-icon-wrapper">
-					{{theme.file}}
 					<img src="{{ "/assets/themes/" | relative_url }}{{ theme.title | slugify }}/icon.png" class="theme-icon" />
 				</div>
-				<span class="theme-name">{{ theme.title | escape }}</span>
+				<h2 class="theme-name">{{ theme.title | escape }}</h2>
 			</a>
+
+			<div class="theme-hover">
+				<img src="{{ "/assets/themes/" | relative_url }}{{ theme.title | slugify }}/screenshot.png" class="theme-screenshot" />
+				<div class="theme-info">
+					<span class="theme-name">{{ theme.title | escape }} <em class="theme-price">${{ theme.price | escape }}</em></span>
+					<span class="theme-description">{{ theme.intro | escape }}</span>
+				</div>
+			</div>
 		</div>
 		{% endfor %}
 

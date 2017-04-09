@@ -8,11 +8,72 @@
 		width: 25%;
 		padding: $grid-line-height ( $grid-gutter / 2 );
 		text-align: center;
+		position: relative;
 
 		.theme-name {
 
 			display: block;
 			@include post-meta-data;
+			margin: 0;
+
+		}
+
+	}
+
+	.theme-hover {
+
+		position: absolute;
+		width: $grid-gutter * 5;
+		z-index: layer( theme_hover );
+		border: $border-width solid $canvas-grey-100;
+		pointer-events: none;
+		top: $grid-line-height * 6;
+		left: 50%;
+		transform: translateX( ( $grid-gutter * 5 / -2 ) );
+		background: $canvas-grey-100;
+		display: none;
+
+		img {
+
+			display: block;
+		}
+
+		.theme-info {
+
+			position: absolute;
+			bottom: 0;
+			left: 0;
+			right: 0;
+			color: $canvas-white;
+			line-height: 1;
+			text-align: left;
+
+			.theme-description,
+			.theme-name {
+
+				padding: 0.25em 1em;
+				background: rgba( $canvas-grey-100, 0.8 );
+
+			}
+
+			.theme-name {
+
+				display: inline-block;
+
+			}
+
+			.theme-price {
+
+				color: $canvas-green;
+
+			}
+
+			.theme-description {
+
+				display: block;
+				@include modular-scale( eta );
+
+			}
 
 		}
 

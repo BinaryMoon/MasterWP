@@ -6,6 +6,8 @@
 
 {% include_relative mwp-filter-themes.js %}
 
+{% include_relative mwp-theme-list.js %}
+
 ;( function( window, document, $ ) {
 
 	'use strict';
@@ -19,6 +21,7 @@
 			MWP_NaturalLanguageForm.init();
 			MWP_SmoothScroll.init();
 			MWP_FilterThemes.init();
+			MWP_ThemeList.init();
 
 		}
 	);
