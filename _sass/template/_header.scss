@@ -7,19 +7,19 @@
 
 		@include post-meta-data;
 		text-align: center;
-		background: $canvas-red;
+		background: $canvas-white;
 
 		a {
 
 			display: inline-block;
 			padding: ( $grid-line-height / 2 ) ( $grid-gutter / 2 );
-			color: $canvas-white;
+			//color: $canvas-white;
 
 		}
 
 		span {
 
-			color: $canvas-white;
+			//color: $canvas-white;
 			opacity: 0.4;
 
 		}
