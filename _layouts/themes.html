@@ -2,9 +2,13 @@
 layout: default
 ---
 
-<section class="themes-list">
+<div class="content">
 
-	<div class="content">
+	<h1>WordPress Theme Finder</h1>
+
+	{% include theme-filter.html %}
+
+	<section class="themes-list">
 
 		{% for theme in site.themes %}
 		<div class="theme"
@@ -35,6 +39,6 @@ layout: default
 			Sorry - no themes here match your requirements.
 		</div>
 
-	</div>
+	</section>
 
-</section>
+</div>
