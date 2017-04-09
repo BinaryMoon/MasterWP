@@ -22,6 +22,7 @@ theme_demo_url: http://urlForMoreThemeDemo.com
 developer: prothemedesign
 intro: A one sentence description of the theme.
 theme_tags: magazine slider
+price: 99
 ---
 Theme description in markdown format - HTML is also supported.
 ```
