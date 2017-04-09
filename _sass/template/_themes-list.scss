@@ -23,15 +23,16 @@
 	.theme-hover {
 
 		position: absolute;
-		width: $grid-gutter * 5;
+		width: $grid-gutter * 6;
 		z-index: layer( theme_hover );
-		border: $border-width solid $canvas-grey-100;
 		pointer-events: none;
 		top: $grid-line-height * 6;
 		left: 50%;
-		transform: translateX( ( $grid-gutter * 5 / -2 ) );
+		transform: translateX( ( $grid-gutter * 6 / -2 ) );
 		background: $canvas-grey-100;
 		display: none;
+		min-height: $grid-line-height * 5;
+		box-shadow: $box-shadow;
 
 		img {
 
