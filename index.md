@@ -1,6 +1,7 @@
 ---
 layout: home
 title: A newsletter for WordPress professionals to look forward to.
+description: A concise and carefully curated email to enjoy every week.
 redirect_from:
   - /newsletter/
 ---

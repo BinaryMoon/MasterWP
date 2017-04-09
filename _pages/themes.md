@@ -2,5 +2,5 @@
 title: WordPress Theme Finder
 permalink: /wordpress-themes/
 layout: themes
-intro_include: theme-filter.html
+description: Find the perfect WordPress theme.
 ---
