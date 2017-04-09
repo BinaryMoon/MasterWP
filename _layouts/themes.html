@@ -22,7 +22,7 @@ layout: default
 			</a>
 
 			<div class="theme-hover">
-				<img src="{{ "/assets/themes/" | relative_url }}{{ theme.title | slugify }}/screenshot.png" class="theme-screenshot" />
+				<img data-src="{{ "/assets/themes/" | relative_url }}{{ theme.title | slugify }}/screenshot.png" class="theme-screenshot" />
 				<div class="theme-info">
 					<span class="theme-name">{{ theme.title | escape }} <em class="theme-price">${{ theme.price | escape }}</em></span>
 					<span class="theme-description">{{ theme.intro | escape }}</span>
