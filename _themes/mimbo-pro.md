@@ -1,9 +1,9 @@
 ---
-title: Opti
+title: Mimbo Pro
 theme_info_url: https://prothemedesign.com
 developer: prothemedesign
-intro: A classicly designed magazine theme for news sites.
+intro: The original magazine theme.
 theme_tags: magazine slider jetpack
 price: 99
 ---
-Opti is a theme
+Mimbo Pro is a theme
