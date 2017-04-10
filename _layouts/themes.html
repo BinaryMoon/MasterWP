@@ -3,7 +3,7 @@ layout: default
 body_class: themes
 ---
 
-	<div class="content highlight">
+	<div class="content">
 
 		<h1>WordPress Theme Finder</h1>
 
@@ -33,7 +33,7 @@ body_class: themes
 				<div class="theme-hover">
 					<img data-src="{{ "/assets/themes/" | relative_url }}{{ theme.title | slugify }}/screenshot.png" class="theme-screenshot" />
 					<div class="theme-info">
-						<span class="theme-name">{{ theme.title | escape }} <em class="theme-price">${{ theme.price | escape }}</em></span>
+						<span class="theme-name">{{ theme.title | escape }} <em class="theme-price">{% include functions/price.html price=theme.price %}</em></span>
 						<span class="theme-description">{{ theme.intro | escape }}</span>
 					</div>
 				</div>
@@ -46,4 +46,13 @@ body_class: themes
 
 		</section>
 
+	</div>
+
+	<div class="content">
+
+		<h2>Why Chose These Themes?</h2>
+
+		<p>The themes on MasterWP are the best there are. They are hand-crafted by boutique theme shops. They might not be the biggest shops, and you may not have heard of them, but each theme is crafted with care and attention. You won't find any bloated themes here. All the themes are simple and work perfectly for their intended purpose.</p>
+
+		<p>These themes are the opposite of those found on ThemeForest - they probably do less than those themes - and they may even cost more. But what they lack in features, they make up for with robust, well tested code, and easy to learn theme setup. You can buy one of these themes safe in the knowledge that you can reproduce the demo in minutes - not days.</p>
 	</div>

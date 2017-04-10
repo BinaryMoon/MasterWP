@@ -3,11 +3,11 @@ layout: default
 body_class: theme
 ---
 
-	<div class="content highlight">
+	<div class="content">
 
 		<h1 class="theme-name">{{ page.title | escape }}</h1>
 
-		<em class="theme-price">${{ page.price }}</em>
+		<em class="theme-price">{% include functions/price.html price=page.price %}</em>
 
 		<p class="intro">{{ page.intro }}</p>
 
