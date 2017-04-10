@@ -1,6 +1,6 @@
 ---
 title: Beacon
-theme_info_url: https://prothemedesign.com
+theme_info_url: https://prothemedesign.com/themes/beacon/
 theme_demo_url: https://prothemedesign.com
 developer: prothemedesign
 intro: A social theme with a unique homepage layout.
