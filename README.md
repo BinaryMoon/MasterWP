@@ -30,22 +30,23 @@ Theme description in markdown format - HTML is also supported.
 The supported theme tags are:
 
 **Theme Type**
-* magazine
 * blog
+* business
+* charity
+* magazine
 * portfolio
 * restaurant
-* charity
 
 **Theme Features**
-* woo-commerce
 * jetpack
-* slider
-* projects
 * page-builder
+* projects
+* slider
+* woo-commerce
 
 ### 2. Adding theme images
 
-In order to be added to the site themes need a series of images. These images will live in the `assets/themes/theme-name/` directory (where theme-name matches the name used in your theme.md file).
+To be added to the site themes need a series of images. These images will live in the `assets/themes/theme-name/` directory (where theme-name matches the name used in your theme.md file).
 
 The required images are a 200x200 icon (called icon.png) and your themes screenshot (a screenshot of the top view of the theme).
 
