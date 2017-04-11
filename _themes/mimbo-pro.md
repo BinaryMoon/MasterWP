@@ -8,3 +8,5 @@ theme_tags: magazine slider jetpack
 price: 99
 ---
 Mimbo Pro is a theme
+
+{% include functions/theme-image.html theme=page.title image="real-world.jpg" %}

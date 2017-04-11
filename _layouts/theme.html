@@ -15,7 +15,7 @@ body_class: theme
 
 	<div class="content">
 
-		<img src="{{ "/assets/themes/" | relative_url }}{{ page.title | slugify }}/screenshot.png" class="theme-screenshot" />
+		{% include functions/theme-image.html theme=page.title image="screenshot.png" %}
 
 		<div class="theme-meta">
 
