@@ -1,6 +1,9 @@
-<!--
+{% if jekyll.environment == "development" %}
+
 <nav>
 	<a href="{% link index.md %}">Newsletter</a>
+	<span>&bull;</span>
 	<a href="{% link _pages/themes.md %}">WordPress Theme Finder</a>
 </nav>
--->
+
+{% endif %}
