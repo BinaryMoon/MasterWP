@@ -32,33 +32,27 @@ body.theme {
 
 	}
 
-	.theme-description {
+	.theme-meta {
 
-		.theme-meta {
+		.button {
 
-			margin-bottom: $grid-line-height * $grid-line-height-multiplier;
+			width: 48%;
+			float: left;
 
-			.button {
+			&:nth-child( 1 ) {
 
-				width: 48%;
-				float: left;
-
-				&:nth-child( 1 ) {
-
-					margin-right: 4%;
-
-				}
+				margin-right: 4%;
 
 			}
 
-			small {
+		}
 
-				clear: both;
-				display: block;
-				text-align: center;
-				padding: ( $grid-line-height / 2 ) ( $grid-gutter / 2 );
+		small {
 
-			}
+			clear: both;
+			display: block;
+			text-align: center;
+			padding: ( $grid-line-height / 2 ) ( $grid-gutter / 2 );
 
 		}
 
