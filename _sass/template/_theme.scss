@@ -1,56 +1,64 @@
 body.theme {
 
-	.intro {
+	.theme-intro {
 
-		@include modular-scale( delta );
-		margin-bottom: $grid-line-height * $grid-line-height-multiplier * 2;
-		clear: both;
+		.intro {
 
-	}
-
-	.theme-screenshot {
-
-		margin-bottom: $grid-line-height * $grid-line-height-multiplier;
-
-	}
-
-	.theme-name {
-
-		float: left;
-
-	}
-
-	.theme-price {
-
-		font-weight: bold;
-		color: $canvas-green;
-		float: right;
-
-	}
-
-	.theme-meta {
-
-		margin-bottom: $grid-line-height * $grid-line-height-multiplier;
-
-		.button {
-
-			width: 48%;
-			float: left;
-
-			&:nth-child( 1 ) {
-
-				margin-right: 4%;
-
-			}
+			@include modular-scale( delta );
+			margin-bottom: $grid-line-height * $grid-line-height-multiplier * 2;
+			clear: both;
 
 		}
 
-		small {
+		.theme-screenshot {
 
-			clear: both;
-			display: block;
-			text-align: center;
-			padding: ( $grid-line-height / 2 ) ( $grid-gutter / 2 );
+			margin-bottom: $grid-line-height * $grid-line-height-multiplier;
+
+		}
+
+		.theme-name {
+
+			float: left;
+
+		}
+
+		.theme-price {
+
+			font-weight: bold;
+			color: $canvas-green;
+			float: right;
+
+		}
+
+	}
+
+	.theme-description {
+
+		.theme-meta {
+
+			margin-bottom: $grid-line-height * $grid-line-height-multiplier;
+
+			.button {
+
+				width: 48%;
+				float: left;
+
+				&:nth-child( 1 ) {
+
+					margin-right: 4%;
+
+				}
+
+			}
+
+			small {
+
+				clear: both;
+				display: block;
+				text-align: center;
+				padding: ( $grid-line-height / 2 ) ( $grid-gutter / 2 );
+
+			}
 
 		}
 
