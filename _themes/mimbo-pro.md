@@ -2,7 +2,7 @@
 title: Mimbo Pro
 theme_info_url: https://prothemedesign.com
 theme_demo_url: https://prothemedesign.com
-developer: prothemedesign
+developer: pro-theme-design
 intro: The original magazine theme.
 theme_tags: magazine slider jetpack
 price: 99
