@@ -2,7 +2,7 @@
 
 	{% assign slug=developer.path | replace: "_theme-developers/", "" | replace: ".md", "" %}
 
-	{% if include.developer == slug %}
+	{% if include.developer == developer.developer %}
 
 		<h2>{{ developer.title }}</h2>
 
