@@ -3,7 +3,7 @@ layout: default
 body_class: theme
 ---
 
-	<div class="content">
+	<div class="content theme-intro">
 
 		<h1 class="theme-name">{{ page.title | escape }}</h1>
 
@@ -13,7 +13,7 @@ body_class: theme
 
 	</div>
 
-	<div class="content">
+	<div class="content theme-description">
 
 		{% include functions/theme-image.html theme=page.title image="screenshot.png" %}
 
@@ -26,5 +26,12 @@ body_class: theme
 		</div>
 
 		{{ content }}
+
+	</div>
+
+	<div class="content">
+
+		{% include functions/developer-intro.html developer=page.developer %}
+		{% include functions/developer-themes.html developer=page.developer %}
 
 	</div>
