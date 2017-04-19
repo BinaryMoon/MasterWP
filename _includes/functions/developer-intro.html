@@ -1,0 +1,15 @@
+{% for developer in site.theme-developers %}
+
+	{% assign slug=developer.path | replace: "_theme-developers/", "" | replace: ".md", "" %}
+
+	{% if include.developer == slug %}
+
+		<h2>{{ developer.title }}</h2>
+
+		<p>
+			{{ developer.intro }}
+		</p>
+
+	{% endif %}
+
+{% endfor %}
