@@ -2,7 +2,7 @@
 title: Pena
 theme_info_url: http://www.anarieldesign.com/themes/pena-charity-wordpress-theme/
 theme_demo_url: http://www.anarieldesign.com/demos/?theme=Pena
-developer: Anariel Design
+developer: anariel-design
 intro: A flexible theme optimized for charity and non-profit sites.
 theme_tags: business charity slider jetpack woo-commerce
 price: 59

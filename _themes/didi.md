@@ -2,7 +2,7 @@
 title: Didi
 theme_info_url: http://www.anarieldesign.com/themes/fashion-blog-wordpress-theme/
 theme_demo_url: http://www.anarieldesign.com/demos/?theme=Didi
-developer: Anariel Design
+developer: anariel-design
 intro: A flexible theme optimized for fashion, lifestyle and magazine style sites.
 theme_tags: business blog magazine slider jetpack woo-commerce
 price: 59

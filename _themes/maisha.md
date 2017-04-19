@@ -2,7 +2,7 @@
 title: Maisha
 theme_info_url: http://www.anarieldesign.com/themes/non-profit-wordpress-theme/
 theme_demo_url: http://www.anarieldesign.com/demos/?theme=Maisha
-developer: Anariel Design
+developer: anariel-design
 intro: A easily customizable theme optimized for charity and non-profit niche.
 theme_tags: business charity slider jetpack woo-commerce
 price: 59
