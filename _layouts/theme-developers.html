@@ -7,17 +7,16 @@ body_class: theme-developers
 
 	<div class="content">
 
+		<h1>WordPress Theme Developers</h1>
+
+	</div>
+
+	<div class="content">
+
 		{% for author in site.theme-developers %}
 		<div class="author">
 			<a href="{{ author.url | relative_url }}" class="author-url">
-				<div class="author-icon-wrapper">
-					<img src="{{ "/assets/theme-developers/" | relative_url }}{{ author.title | slugify }}.png" class="author-icon" />
-				</div>
-				<div class="author-info">
-					<h2 class="author-name">{{ author.title | escape }}</h2>
-					<p>{{ author.excerpt }}</p>
-					<a href="{{ author.website }}" class="button">Visit {{ author.title }}</a>
-				</div>
+				<h2 class="author-name">{{ author.title | escape }}</h2>
 			</a>
 		</div>
 		{% endfor %}
