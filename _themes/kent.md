@@ -1,6 +1,6 @@
 ---
 title: Kent
-theme_info_url: https://prothemedesign.com/themes/kent/
+theme_info_url: https://wordpress.org/themes/kent/
 theme_demo_url: https://prothemedesign.com
 developer: pro-theme-design
 intro: A minimal blogging theme.

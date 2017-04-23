@@ -1,7 +1,7 @@
 ---
 title: Lens
 theme_info_url: https://prothemedesign.com/themes/lens/
-theme_demo_url: https://prothemedesign.com
+theme_demo_url: https://prothemedesign.com/theme-preview/lens/
 developer: pro-theme-design
 intro: A photography and portfolio WordPress theme.
 theme_tags: portfolio photography jetpack

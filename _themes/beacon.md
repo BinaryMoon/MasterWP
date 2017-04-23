@@ -1,7 +1,7 @@
 ---
 title: Beacon
 theme_info_url: https://prothemedesign.com/themes/beacon/
-theme_demo_url: https://prothemedesign.com
+theme_demo_url: https://prothemedesign.com/theme-preview/beacon/
 developer: pro-theme-design
 intro: A social theme with a unique homepage layout.
 theme_tags: magazine jetpack

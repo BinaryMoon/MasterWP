@@ -1,7 +1,7 @@
 ---
 title: Opti
-theme_info_url: https://prothemedesign.com
-theme_demo_url: https://prothemedesign.com
+theme_info_url: https://prothemedesign.com/theme/opti/
+theme_demo_url: https://prothemedesign.com/theme-preview/opti/
 developer: pro-theme-design
 intro: A classicly designed magazine theme for news sites.
 theme_tags: magazine slider jetpack

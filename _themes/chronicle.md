@@ -1,7 +1,7 @@
 ---
 title: Chronicle
 theme_info_url: https://prothemedesign.com/themes/chronicle/
-theme_demo_url: https://prothemedesign.com
+theme_demo_url: https://prothemedesign.com/theme-preview/chronicle/
 developer: pro-theme-design
 intro: A 4 column magazine theme.
 theme_tags: magazine jetpack slider

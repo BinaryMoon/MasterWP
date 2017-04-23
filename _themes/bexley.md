@@ -1,6 +1,6 @@
 ---
 title: Bexley
-theme_info_url: https://prothemedesign.com/themes/beacon/
+theme_info_url: https://wordpress.org/themes/bexley/
 theme_demo_url: https://prothemedesign.com
 developer: pro-theme-design
 intro: A minimal photoblog.

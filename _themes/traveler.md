@@ -1,7 +1,7 @@
 ---
 title: Traveler
 theme_info_url: https://prothemedesign.com/themes/traveler/
-theme_demo_url: https://prothemedesign.com
+theme_demo_url: https://prothemedesign.com/theme-preview/traveler/
 developer: pro-theme-design
 intro: A 4 column magazine theme.
 theme_tags: jetpack

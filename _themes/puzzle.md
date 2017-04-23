@@ -1,7 +1,7 @@
 ---
 title: Puzzle
-theme_info_url: https://prothemedesign.com
-theme_demo_url: https://prothemedesign.com
+theme_info_url: https://prothemedesign.com/theme/puzzle/
+theme_demo_url: https://prothemedesign.com/theme-preview/puzzle/
 developer: pro-theme-design
 intro: A classicly designed magazine theme for news sites.
 theme_tags: magazine slider jetpack
