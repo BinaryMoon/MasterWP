@@ -13,11 +13,11 @@ body_class: theme-developers
 
 	<div class="content">
 
-		{% for author in site.theme-developers %}
-		<div class="author">
-			<a href="{{ author.url | relative_url }}" class="author-url">
-				<h2 class="author-name">{{ author.title | escape }}</h2>
-			</a>
+		{% for developer in site.theme-developers %}
+		<div class="developer">
+			<h2 class="developer-name">
+				<a href="{{ developer.url | relative_url }}" class="developer-url">{{ developer.title | escape }}</a>
+			</h2>
 		</div>
 		{% endfor %}
 
