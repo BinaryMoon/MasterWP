@@ -7,6 +7,7 @@ intro: A flexible theme for restaurants and businesses.
 theme_tags: business restaurant slider jetpack
 price: 59
 ---
+
 Liber is a premium responsive WordPress theme optimized for restaurant, bar and pub websites. Gastronomy websites require niche specific features and Liber delivers in spades.
 
 Liber features modern clean responsive layout with many customization options available directly from the WordPress customizer. From front page layout options, to blog options, color options and more, it is all there, logically laid out and easy to use. It is, of course, translation ready and mobile friendly, so no worries your website will shine in the best light on all devices.
