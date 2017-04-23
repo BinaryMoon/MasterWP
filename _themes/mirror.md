@@ -3,7 +3,7 @@ title: Mirror
 theme_info_url: https://prothemedesign.com/themes/mirror/
 theme_demo_url: https://prothemedesign.com/theme-preview/mirror/
 developer: pro-theme-design
-intro: A 4 column magazine theme.
+intro: A blogging theme ideal for widescreen imagery.
 theme_tags: blog jetpack slider
 price: 99
 ---

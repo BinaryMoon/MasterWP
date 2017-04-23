@@ -3,7 +3,7 @@ title: Bromley
 theme_info_url: https://prothemedesign.com/themes/bromley/
 theme_demo_url: https://prothemedesign.com
 developer: pro-theme-design
-intro: A social theme with a unique homepage layout.
+intro: A bold magazine theme with a wide slider.
 theme_tags: magazine jetpack slider
 price: 99
 ---

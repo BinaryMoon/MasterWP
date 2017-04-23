@@ -3,7 +3,7 @@ title: Monet
 theme_info_url: https://prothemedesign.com/themes/monet/
 theme_demo_url: https://prothemedesign.com/theme-preview/monet/
 developer: pro-theme-design
-intro: A 4 column magazine theme.
+intro: A minimal portfolio WordPress theme.
 theme_tags: portfolio slider jetpack projects
 price: 99
 ---

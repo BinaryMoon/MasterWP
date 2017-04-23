@@ -3,7 +3,7 @@ title: Isca
 theme_info_url: https://wordpress.org/themes/isca/
 theme_demo_url: https://prothemedesign.com
 developer: pro-theme-design
-intro: A 4 column magazine theme.
+intro: A classical 1 column tumblog for WordPress.
 theme_tags: blog jetpack
 price: 0
 ---
