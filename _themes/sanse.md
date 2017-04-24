@@ -1,4 +1,4 @@
----
+.---
 title: Sanse
 theme_info_url: https://foxland.fi/downloads/sanse/
 theme_demo_url: https://foxland.fi/demo/sanse/
