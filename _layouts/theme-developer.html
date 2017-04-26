@@ -11,6 +11,25 @@ body_class: theme-developer
 		<p class="intro">{{ page.intro }}</p>
 		{% endif %}
 
+		<ul class="developer-links">
+			<li>
+				<a href="https://twitter.com/{{page.twitter}}">
+					{% include svg/twitter.svg %}
+					{{ page.title }} on Twitter
+				</a>
+			</li>
+			<li>
+				<a href="{{ page.website }}">
+					{% include svg/home.svg %}
+					{{ page.title }} WordPress Theme Shop
+				</a>
+			</li>
+		</ul>
+
+	</div>
+
+	<div class="content">
+
 		{{ content }}
 
 	</div>
