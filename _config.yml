@@ -4,7 +4,7 @@ title: MasterWP
 description: >
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: https://masterwp.co # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: prothemedesign
 github_username: binarymoon
 permalink: /blog/:year/:title/
@@ -32,7 +32,7 @@ collections:
 # Default properties
 defaults:
   - scope:
-      type: page
+      type: pages
     values:
       image: /assets/images/og-image.png
   - scope:
