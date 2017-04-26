@@ -5,6 +5,7 @@ theme_demo_url: http://www.anarieldesign.com/themes/food-blog-wordpress-theme/
 developer: anariel-design
 intro: Veggie is perfectly suited for food-related sites, from recipe collections to food blogs or magazine-style sites.
 theme_tags: blog magazine restaurant
+image: /assets/themes/veggie/screenshot.png
 price: 59
 ---
 Veggie is perfectly suited for food-related sites, from recipe collections to food blogs or magazine-style sites. Veggie‘s modern, easy-to-read typography and minimalist design is a pleasure to view on devices of all sizes.

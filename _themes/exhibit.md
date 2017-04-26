@@ -5,6 +5,7 @@ theme_demo_url: https://prothemedesign.com/theme-preview/exhibit/
 developer: pro-theme-design
 intro: A super minimal portfolio theme for designers.
 theme_tags: portfolio slider jetpack projects business
+image: /assets/themes/exhibit/screenshot.png
 price: 99
 ---
 

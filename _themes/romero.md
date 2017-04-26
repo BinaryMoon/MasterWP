@@ -5,6 +5,7 @@ theme_demo_url: https://prothemedesign.com/theme-preview/romero/
 developer: pro-theme-design
 intro: A magazine theme for Video Gamers.
 theme_tags: magazine jetpack
+image: /assets/themes/romero/screenshot.png
 price: 99
 ---
 

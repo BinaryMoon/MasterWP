@@ -5,6 +5,7 @@ theme_demo_url: https://prothemedesign.com/theme-preview/monet/
 developer: pro-theme-design
 intro: A minimal portfolio WordPress theme.
 theme_tags: portfolio slider jetpack projects
+image: /assets/themes/monet/screenshot.png
 price: 99
 ---
 

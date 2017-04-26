@@ -5,6 +5,7 @@ theme_demo_url: https://prothemedesign.com
 developer: pro-theme-design
 intro: A minimal photoblog.
 theme_tags: blog jetpack
+image: /assets/themes/bexley/screenshot.png
 price: 0
 ---
 

@@ -5,6 +5,7 @@ theme_demo_url: https://prothemedesign.com
 developer: pro-theme-design
 intro: A minimal blogging theme.
 theme_tags: blog jetpack
+image: /assets/themes/kent/screenshot.png
 price: 0
 ---
 

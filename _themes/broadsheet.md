@@ -5,6 +5,7 @@ theme_demo_url: https://prothemedesign.com/theme-preview/broadsheet/
 developer: pro-theme-design
 intro: A 4 column newspaper theme for the masses.
 theme_tags: blog magazine jetpack slider
+image: /assets/themes/broadsheet/screenshot.png
 price: 99
 ---
 Broadsheet is a newspaper theme. With 3 optional widget areas, and a huge homepage slider there are lots of options for creating interesting, immersive websites.

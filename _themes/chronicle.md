@@ -5,6 +5,7 @@ theme_demo_url: https://prothemedesign.com/theme-preview/chronicle/
 developer: pro-theme-design
 intro: A 4 column magazine theme.
 theme_tags: magazine jetpack slider
+image: /assets/themes/chronicle/screenshot.png
 price: 129
 ---
 

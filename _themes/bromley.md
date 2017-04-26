@@ -5,6 +5,7 @@ theme_demo_url: https://prothemedesign.com
 developer: pro-theme-design
 intro: A bold magazine theme with a wide slider.
 theme_tags: magazine jetpack slider
+image: /assets/themes/bromley/screenshot.png
 price: 99
 ---
 

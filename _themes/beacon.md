@@ -5,6 +5,7 @@ theme_demo_url: https://prothemedesign.com/theme-preview/beacon/
 developer: pro-theme-design
 intro: A social theme with a unique homepage layout.
 theme_tags: magazine jetpack
+image: /assets/themes/beacon/screenshot.png
 price: 99
 ---
 

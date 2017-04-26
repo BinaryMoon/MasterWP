@@ -5,6 +5,7 @@ theme_demo_url: https://prothemedesign.com/theme-preview/opti/
 developer: pro-theme-design
 intro: A classicly designed magazine theme for news sites.
 theme_tags: magazine slider jetpack
+image: /assets/themes/opti/screenshot.png
 price: 99
 ---
 

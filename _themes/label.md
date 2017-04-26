@@ -5,6 +5,7 @@ theme_demo_url: https://prothemedesign.com/theme-preview/label/
 developer: pro-theme-design
 intro: A blogging theme for the fashionable.
 theme_tags: blog portfolio slider jetpack projects
+image: /assets/themes/label/screenshot.png
 price: 99
 ---
 

@@ -5,6 +5,7 @@ theme_demo_url: https://prothemedesign.com/theme-preview/passenger/
 developer: pro-theme-design
 intro: A travel theme and journal for the adventurous.
 theme_tags: blog jetpack projects
+image: /assets/themes/passenger/screenshot.png
 price: 99
 ---
 

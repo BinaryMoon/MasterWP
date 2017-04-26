@@ -5,6 +5,7 @@ theme_demo_url: http://demo.themetry.com/spatial/
 developer: themetry
 intro: A minimalist theme for blogs and portfolios.
 theme_tags: portfolio slider jetpack
+image: /assets/themes/spatial/screenshot.png
 price: 69
 ---
 Spatial is a theme for blogs and portfolios with a minimalist touch.

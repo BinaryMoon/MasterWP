@@ -5,6 +5,7 @@ theme_demo_url: https://prothemedesign.com/theme-preview/traveler/
 developer: pro-theme-design
 intro: A photo theme for people on the go.
 theme_tags: jetpack magazine
+image: /assets/themes/traveler/screenshot.png
 price: 99
 ---
 

@@ -5,6 +5,7 @@ theme_demo_url: https://prothemedesign.com/theme-preview/mirror/
 developer: pro-theme-design
 intro: A blogging theme ideal for widescreen imagery.
 theme_tags: blog jetpack slider
+image: /assets/themes/mirror/screenshot.png
 price: 99
 ---
 

@@ -5,6 +5,7 @@ theme_demo_url: https://prothemedesign.com/theme-preview/lens/
 developer: pro-theme-design
 intro: A photography and portfolio WordPress theme.
 theme_tags: portfolio photography jetpack
+image: /assets/themes/lens/screenshot.png
 price: 99
 ---
 

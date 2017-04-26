@@ -5,6 +5,7 @@ theme_demo_url: https://prothemedesign.com
 developer: pro-theme-design
 intro: A classical 1 column tumblog for WordPress.
 theme_tags: blog jetpack
+image: /assets/themes/isca/screenshot.png
 price: 0
 ---
 
