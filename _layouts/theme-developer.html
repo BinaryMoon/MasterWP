@@ -15,24 +15,29 @@ body_class: theme-developer
 			<li>
 				<a href="https://twitter.com/{{page.twitter}}">
 					{% include svg/twitter.svg %}
-					{{ page.title }} on Twitter
+					<span>{{ page.title }} on Twitter</span>
 				</a>
 			</li>
 			<li>
 				<a href="{{ page.website }}">
 					{% include svg/home.svg %}
-					{{ page.title }} WordPress Theme Shop
+					<span>{{ page.title }} WordPress Theme Shop</span>
 				</a>
 			</li>
 		</ul>
 
 	</div>
 
+	{% assign trimmed_content = page.content | strip %}
+	{% if trimmed_content != empty %}
 	<div class="content">
 
+		hi
+		{{ page.content }}
 		{{ content }}
 
 	</div>
+	{% endif %}
 
 	<div class="content">
 
