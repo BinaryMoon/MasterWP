@@ -12,7 +12,7 @@ This theme has been inspired by "Living On One Dollar" documentary we watched on
 
 <img src="http://www.anarieldesign.com/themedemos/marketimages/penademo.jpg" alt="" />
 
-## ★ Features
+## Features
 
 * WordPress Theme Customizer
 * Responsive Design

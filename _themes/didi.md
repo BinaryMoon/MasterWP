@@ -12,7 +12,7 @@ Didi is a modern responsive theme. This theme is made to present your content in
 
 <img src="http://www.anarieldesign.com/themedemos/marketimages/dididemo.jpg" alt="Fashion WordPress Theme" />
 
-## ★ Features
+## Features
 
 * WordPress Theme Customizer
 * Responsive Design

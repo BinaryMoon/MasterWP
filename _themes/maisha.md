@@ -12,7 +12,7 @@ Maisha is a beautiful charity WordPress theme inspired by "Virunga" documentary.
 
 <img src="http://www.anarieldesign.com/themedemos/marketimages/maishademo.jpg" alt="Charity WordPress Theme" />
 
-## ★ Features
+## Features
 
 * Extensive Color Options
 * WordPress Theme Customizer

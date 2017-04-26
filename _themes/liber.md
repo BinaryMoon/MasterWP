@@ -17,7 +17,7 @@ Liber is built using standard WordPress features; posts, pages, child pages, wid
 
 <img src="http://www.anarieldesign.com/themedemos/marketimages/liberdemo-tf.jpg" alt="">
 
-## ★ Features
+## Features
 
 * WordPress Theme Customizer
 * One-Click Demo Install
