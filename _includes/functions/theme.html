@@ -1,0 +1,23 @@
+
+	<div class="theme"
+		data-price="{{ include.theme.price }}"
+		data-name="{{ include.theme.title }}"
+		data-screenshot="{{ "/assets/themes/screenshots/" | relative_url }}{{ include.theme.title | slugify }}.png"
+		data-short-description="{{ include.theme.intro }}"
+		data-tags="{{ include.theme.theme_tags }}"
+	>
+		<a href="{{ include.theme.url | relative_url }}" class="theme-url">
+			<div class="theme-icon-wrapper">
+				{% include functions/theme-image.html theme=include.theme.title image="icon.png" %}
+			</div>
+			<h2 class="theme-name">{{ include.theme.title | escape }}</h2>
+		</a>
+
+		<div class="theme-hover">
+			<img data-src="{{ "/assets/themes/" | relative_url }}{{ include.theme.title | slugify }}/screenshot.png" class="theme-screenshot" />
+			<div class="theme-info">
+				<span class="theme-name">{{ include.theme.title | escape }} <em class="theme-price">{% include functions/price.html price=include.theme.price %}</em></span>
+				<span class="theme-description">{{ include.theme.intro | escape }}</span>
+			</div>
+		</div>
+	</div>

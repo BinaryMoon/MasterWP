@@ -1,0 +1,16 @@
+{% for developer in site.theme-developers %}
+
+	{% assign slug=developer.path | replace: "_theme-developers/", "" | replace: ".md", "" %}
+
+	{% if include.developer == developer.developer %}
+
+		{% capture developer_link %}/wordpress-theme-developers/{{ slug }}/{% endcapture %}
+		<h2>All <a href="{{ developer_link | relative_url }}">{{ developer.title }}</a> Themes</h2>
+
+		<p>
+			{{ developer.intro }}
+		</p>
+
+	{% endif %}
+
+{% endfor %}

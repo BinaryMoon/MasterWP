@@ -1,36 +1,30 @@
 body.theme {
 
-	.intro {
+	.theme-intro {
 
-		@include modular-scale( delta );
-		margin-bottom: $grid-line-height * $grid-line-height-multiplier * 2;
-		clear: both;
+		.theme-screenshot {
 
-	}
+			margin-bottom: $grid-line-height * $grid-line-height-multiplier;
 
-	.theme-screenshot {
+		}
 
-		margin-bottom: $grid-line-height * $grid-line-height-multiplier;
+		.theme-name {
 
-	}
+			float: left;
 
-	.theme-name {
+		}
 
-		float: left;
+		.theme-price {
 
-	}
+			font-weight: bold;
+			color: $canvas-green;
+			float: right;
 
-	.theme-price {
-
-		font-weight: bold;
-		color: $canvas-green;
-		float: right;
+		}
 
 	}
 
 	.theme-meta {
-
-		margin-bottom: $grid-line-height * $grid-line-height-multiplier;
 
 		.button {
 
@@ -51,6 +45,16 @@ body.theme {
 			display: block;
 			text-align: center;
 			padding: ( $grid-line-height / 2 ) ( $grid-gutter / 2 );
+
+		}
+
+	}
+
+	.theme-description {
+
+		.theme-meta {
+
+			padding-top: $grid-line-height * $grid-line-height-multiplier;
 
 		}
 

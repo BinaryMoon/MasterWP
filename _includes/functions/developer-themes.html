@@ -1,0 +1,14 @@
+
+<section class="themes-list">
+
+{% for theme in site.themes %}
+
+	{% if theme.developer == include.developer %}
+
+		{% include functions/theme.html theme=theme %}
+
+	{% endif %}
+
+{% endfor %}
+
+</section>

@@ -3,7 +3,7 @@ layout: default
 body_class: theme
 ---
 
-	<div class="content">
+	<div class="content theme-intro">
 
 		<h1 class="theme-name">{{ page.title | escape }}</h1>
 
@@ -11,20 +11,23 @@ body_class: theme
 
 		<p class="intro">{{ page.intro }}</p>
 
+		{% include functions/theme-image.html theme=page.title image="screenshot.png" %}
+
+		{% include functions/theme-meta.html page=page %}
+
+	</div>
+
+	<div class="content theme-description">
+
+		{{ content }}
+
+		{% include functions/theme-meta.html page=page %}
+
 	</div>
 
 	<div class="content">
 
-		<img src="{{ "/assets/themes/" | relative_url }}{{ page.title | slugify }}/screenshot.png" class="theme-screenshot" />
-
-		<div class="theme-meta">
-
-			<a href="{{ page.theme_info_url }}" class="button">More Info</a>
-			<a href="{{ page.theme_demo_url }}" class="button">Theme Demo</a>
-			<small>These buttons will open pages on a third party website.</small>
-
-		</div>
-
-		{{ content }}
+		{% include functions/developer-intro.html developer=page.developer %}
+		{% include functions/developer-themes.html developer=page.developer %}
 
 	</div>

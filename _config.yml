@@ -4,11 +4,12 @@ title: MasterWP
 description: >
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: https://masterwp.co # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: prothemedesign
 github_username: binarymoon
 permalink: /blog/:year/:title/
 google_analytics: UA-55722-24
+logo: /assets/images/favicon-192.png
 
 # Build settings
 markdown: kramdown
@@ -30,6 +31,10 @@ collections:
 
 # Default properties
 defaults:
+  - scope:
+      type: pages
+    values:
+      image: /assets/images/og-image.png
   - scope:
       type: themes
     values:
