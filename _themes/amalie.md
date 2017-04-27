@@ -2,9 +2,10 @@
 title: Amalie
 theme_info_url: http://www.anarieldesign.com/themes/personal-blog-wordpress-theme/
 theme_demo_url: http://www.anarieldesign.com/demos/?theme=Amalie
-developer: Anariel Design
+developer: anariel-design
 intro: A simple to use, uniquely designed blogging theme based on the popular “Twenty Fifteen” WP theme.
 theme_tags: business blog magazine slider jetpack woo-commerce
+image: /assets/themes/amalie/screenshot.png
 price: 59
 ---
 

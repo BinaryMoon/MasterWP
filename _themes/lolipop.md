@@ -2,9 +2,10 @@
 title: Lolipop
 theme_info_url: http://www.anarieldesign.com/themes/fashion-magazine-wordpress-theme/
 theme_demo_url: http://www.anarieldesign.com/demos/?theme=Lolipop
-developer: Anariel Design
+developer: anariel-design
 intro: A flexible theme optimized for fashion, lifestyle and magazine style sites.
 theme_tags: business blog magazine slider jetpack woo-commerce
+image: /assets/themes/lollipop/screenshot.png
 price: 59
 ---
 <p>Lolipop is an easy-on-the-eyes modern blogging theme with unique character. Extensive color options and a set of carefully set color presets make it easy to transform the theme from very soft and light to a very punchy one. Theme’s typography can easily be changed at any time using a custom plugin included with the theme. Different blog layouts as well as a number of front page options and templates make this theme suitable for all kinds of blogs. From lifestyle blogs to self-help or technical blogs. Theme is fully responsive and mobile friendly so your content will look great at all times, on all screen sizes.
