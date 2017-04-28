@@ -124,28 +124,11 @@
 
 	}
 
-	.pricing {
+	.themes-list {
 
-		.packages {
+		.theme {
 
-			flex-direction: column;
-
-		}
-
-		.package.best,
-		.package {
-
-			margin: 0 0 $grid-line-height 0;
-
-		}
-
-	}
-
-	.hello-bar {
-
-		span {
-
-			//display: none;
+			width: 33.333%;
 
 		}
 
@@ -159,6 +142,16 @@
 	html {
 
 		font-size: ( ( $font-size * 0.85 ) * 1% );
+
+	}
+
+	.themes-list {
+
+		.theme {
+
+			width: 50%;
+
+		}
 
 	}
 
