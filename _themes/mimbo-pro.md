@@ -1,7 +1,7 @@
 ---
 title: Mimbo Pro
-theme_info_url: https://prothemedesign.com/theme/mimbo-pro/
-theme_demo_url: https://prothemedesign.com/theme-preview/mimbo-pro/
+theme_info_url: https://prothemedesign.com/theme/mimbopro/
+theme_demo_url: https://prothemedesign.com/theme-preview/mimbopro/
 developer: pro-theme-design
 intro: The original magazine theme.
 theme_tags: magazine slider jetpack

@@ -1,6 +1,6 @@
 ---
 title: Mirror
-theme_info_url: https://prothemedesign.com/themes/mirror/
+theme_info_url: https://prothemedesign.com/theme/mirror/
 theme_demo_url: https://prothemedesign.com/theme-preview/mirror/
 developer: pro-theme-design
 intro: A blogging theme ideal for widescreen imagery.

@@ -1,6 +1,6 @@
 ---
 title: Broadsheet
-theme_info_url: https://prothemedesign.com/themes/broadsheet/
+theme_info_url: https://prothemedesign.com/theme/broadsheet/
 theme_demo_url: https://prothemedesign.com/theme-preview/broadsheet/
 developer: pro-theme-design
 intro: A 4 column newspaper theme for the masses.

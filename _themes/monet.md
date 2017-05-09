@@ -1,6 +1,6 @@
 ---
 title: Monet
-theme_info_url: https://prothemedesign.com/themes/monet/
+theme_info_url: https://prothemedesign.com/theme/monet/
 theme_demo_url: https://prothemedesign.com/theme-preview/monet/
 developer: pro-theme-design
 intro: A minimal portfolio WordPress theme.
