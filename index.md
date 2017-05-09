@@ -9,4 +9,4 @@ MasterWP is a quality email newsletter sent every Wednesday, for WordPress profe
 
 No affiliates, no filler, no noise, just the good stuff.
 
-You're in good company: sign up now to join **327** other subscribers. Plus, it's free, and you can unsubscribe any time :)
+You're in good company: sign up now to join **339** other subscribers. Plus, it's free, and you can unsubscribe any time :)
