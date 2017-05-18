@@ -1,7 +1,8 @@
 ---
 layout: newsletter
 title: A newsletter for WordPress professionals to look forward to.
-description: A concise and carefully curated email to enjoy every week.
+description: Your exciting weekly email with apps, tools and links that will make your life better. Do you work with WordPress? Sign up and enjoy the email.
+short_description: A weekly newsletter for WordPress Masters.
 redirect_from:
   - /newsletter/
 ---
