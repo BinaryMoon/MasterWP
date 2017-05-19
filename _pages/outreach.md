@@ -41,11 +41,6 @@ scripts_internal: "/assets/scripts/mwp-outreach.js"
 		<input type="text" data-bind="value: articleSubject"/>
 	</label>
 
-	<label>
-		Article Url:
-		<input type="text" data-bind="value: articleUrl"/>
-	</label>
-
 </form>
 
 <!-- Template for cold-email people -->

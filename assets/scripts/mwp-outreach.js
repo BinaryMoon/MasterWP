@@ -7,7 +7,6 @@
 		articleAuthor: ko.observable( 'Bob' ),
 		articleName: ko.observable( 'Article Name' ),
 		articleSubject: ko.observable( 'WordPress' ),
-		articleUrl: ko.observable( 'https://masterwp.co' ),
 
 	};
 
