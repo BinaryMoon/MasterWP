@@ -1,5 +1,5 @@
 ---
-title: York Pro
+title: York
 theme_info_url: https://themebeans.com/themes/york-pro/
 theme_demo_url: http://demo.themebeans.com/york/
 developer: themebeans
