@@ -11,6 +11,3 @@ MasterWP is a quality email newsletter sent every Wednesday, for WordPress profe
 No affiliates, no filler, no noise, just the good stuff.
 
 You're in good company: sign up now to join **378** other subscribers. Plus, it's free, and you can unsubscribe any time :)
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">If you&#39;re looking for a high quality WordPress newsletter, check out <a href="https://t.co/xTs4pPzLrS">https://t.co/xTs4pPzLrS</a> by <a href="https://twitter.com/AlexDenning">@AlexDenning</a> and <a href="https://twitter.com/BinaryMoon">@BinaryMoon</a></p>&mdash; Jeff (@jeffr0) <a href="https://twitter.com/jeffr0/status/865716522538475520">May 19, 2017</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
