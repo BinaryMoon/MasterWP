@@ -36,3 +36,7 @@ The introductory rates are:
 
 * [Pro Theme Design](https://prothemedesign.com) - Premium WordPress Themes
 * [Anariel Design](http://anarieldesign.com) - Niche WordPress Themes
+
+## Contact
+
+If you would like to sponsor an issue (or 4), or have some questions, then please email us (Ben and Alex) at [hello@masterwp.co](mailto:hello@masterwp.co).
