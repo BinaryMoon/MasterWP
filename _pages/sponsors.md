@@ -37,8 +37,11 @@ The newsletter is currently in the early days but growing quickly. We're offerin
 
 ## Past Sponsors
 
+Past sponsors include (but are not limited to):
+
 * [Pro Theme Design](https://prothemedesign.com) - Premium WordPress Themes
 * [Anariel Design](http://anarieldesign.com) - Niche WordPress Themes
+* [WPZoom](http://wpzoom.com) - Quality WordPres Themes
 
 ## Contact
 
