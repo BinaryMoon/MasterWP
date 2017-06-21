@@ -68,8 +68,8 @@ Users are advised to take caution and good judgement before clicking any shorten
 
 ## Resources & Further Information
 
-* (Data Protection Act 1998)[http://www.legislation.gov.uk/ukpga/1998/29/contents]
-* (Privacy and Electronic Communications Regulations 2003)[http://www.legislation.gov.uk/uksi/2003/2426/contents/made]
-* (Privacy and Electronic Communications Regulations 2003 - The Guide)[http://www.ico.gov.uk/for_organisations/privacy_and_electronic_communications/the_guide.aspx]
-* (Facebook Privacy Policy)[http://www.facebook.com/about/privacy/]
-* (Mailchimp Privacy Policy)[http://mailchimp.com/legal/privacy/]
+* [Data Protection Act 1998](http://www.legislation.gov.uk/ukpga/1998/29/contents)
+* [Privacy and Electronic Communications Regulations 2003](http://www.legislation.gov.uk/uksi/2003/2426/contents/made)
+* [Privacy and Electronic Communications Regulations 2003 - The Guide](http://www.ico.gov.uk/for_organisations/privacy_and_electronic_communications/the_guide.aspx)
+* [Facebook Privacy Policy](http://www.facebook.com/about/privacy/)
+* [Mailchimp Privacy Policy](http://mailchimp.com/legal/privacy/)
