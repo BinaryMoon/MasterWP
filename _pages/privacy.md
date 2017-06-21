@@ -5,7 +5,7 @@ permalink: /privacy/
 
 ### What is this Privacy Policy for?
 
-This privacy policy is for this website [masterwp.co] and served by [### COMPANY NAME ###] and governs the privacy of its users who choose to use it.
+This privacy policy is for this website [masterwp.co] and governs the privacy of its users who choose to use it.
 
 The policy sets out the different areas where user privacy is concerned and outlines the obligations & requirements of the users, the website and website owners. Furthermore the way this website processes, stores and protects user data and information will also be detailed within this policy.
 
@@ -42,7 +42,7 @@ This information is used to refine future email campaigns and supply the user wi
 In compliance with UK Spam Laws and the Privacy and Electronic Communications Regulations 2003 subscribers are given the opportunity to un-subscribe at any time through an automated system. This process is detailed at the footer of each email campaign. If an automated un-subscription system is unavailable clear instructions on how to un-subscribe will by detailed instead.
 
 ## External Links
-Although this website only looks to include quality, safe and relevant external links, users are advised adopt a policy of caution before clicking any external web links mentioned throughout this website. (External links are clickable text / banner / image links to other websites, similar to; Folded Book Art or Cottages in Pembrokeshire.)
+Although this website only looks to include quality, safe and relevant external links, users are advised adopt a policy of caution before clicking any external web links mentioned throughout this website. (External links are clickable text / banner / image links to other websites.)
 
 The owners of this website cannot guarantee or verify the contents of any externally linked website despite their best efforts. Users should therefore note they click on external links at their own risk and this website and its owners cannot be held liable for any damages or implications caused by visiting any external links mentioned.
 
@@ -74,9 +74,3 @@ Data Protection Act 1998
 * Google Privacy Policy
 * Linkedin Privacy Policy
 * Mailchimp Privacy Policy
-
-Fillable PDF Forms Creation
-
-Website Privacy Policy Template
-
-v.2.0 April 2013 Edited & customised by: ### BUSINESS NAME AND FULL ADDRESS WITH POST CODE ###
