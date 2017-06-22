@@ -4,7 +4,7 @@ theme_info_url: https://www.mhthemes.com/themes/mh/magazine/
 theme_demo_url: http://www.mhthemes.com/demo/?theme=magazine
 developer: mhthemes
 intro: A 4 column newspaper theme for the masses.
-theme_tags: blog magazine jetpack slider
+theme_tags: blog magazine slider
 image: /assets/themes/broadsheet/screenshot.png
 price: 49
 ---
