@@ -33,7 +33,7 @@ Each issue of MasterWP is sponsored by a different company. Sponsors get:
 
 The newsletter is currently in the early days but growing quickly. We're offering an introductory rate whilst we grow our subscriber numbers. This is:
 
-* $75 for a block of 4 issues
+* $100 for a block of 4 issues
 
 ## Past Sponsors
 
