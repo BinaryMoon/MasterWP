@@ -54,4 +54,20 @@ You can also add further images and include them in your themes description if y
 
 ## Adding a new theme shop.
 
-**Stay tuned**
+Theme shops are listed on the [theme developers page](https://masterwp.co/wordpress-theme-developers/) - and have their own individual pages such as this one for [Pro Theme Design](https://masterwp.co/wordpress-theme-developers/pro-theme-design/).
+
+To add a theme shop you need a theme-shop.md file in the [_theme-developers](https://github.com/BinaryMoon/MasterWP/tree/master/_theme-developers) directory.
+
+You can see an [example theme-shop.md file here](https://raw.githubusercontent.com/BinaryMoon/MasterWP/master/_theme-developers/pro-theme-design.md).
+
+The required front matter is:
+
+* title: Theme shop name
+* website: Absolute website url for theme shop
+* developer: Url friendly slug for developer name
+* twitter: twitter handle (no @ or twitter url - just the name)
+* intro: A one sentence intro for the theme shop. A tagline would be perfect.
+
+After the front matter you can include whatever text you like to describe the themes you produce. This content should use markdown to display correctly.
+
+Below that all themes with the same developer slug will be included automatically.
