@@ -12,7 +12,7 @@ Do you want to launch a professional online magazine, news website or blog? MH M
 
 MH Magazine comes with several unique custom widgets to display your content in various different ways on your front page, sidebars, header and footer. The many available widget areas also let you easily display advertisements to monetize your online project. Advanced layout options allow you to display one or two sidebars, a wide or boxed layout, and you can choose from different archive layouts. If you are looking for a highly-flexible WordPress theme to handle your content well-organized, then MH Magazine is a great solution for your website.
 
-Key Features include:
+## Features
 
 * Quality code - reviewed by the team at WordPress.org
 * Responsive layout - to look good on any device

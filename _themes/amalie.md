@@ -29,7 +29,8 @@ This theme uses a WordPress feature called "Post Formats". Using "Post Formats" 
 
 Theme Customization screen (i.e. "Theme Customizer") allows site admins to tweak theme's settings and see the preview of those changes in a real time.<br> You'll be able to upload your header image, colors (<a href="http://www.anarieldesign.com/themedemos/amalie/features/theme-styles/">color options</a>), logo or to change the site title and tagline, copyright and more.
 
-## Features:
+## Features
+
 * WordPress Theme Customizer
 * Responsive Design
 * Different page templates
