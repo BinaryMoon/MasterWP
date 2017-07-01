@@ -15,7 +15,7 @@ price: 99
 
 <img class="aligncenter size-full wp-image-28924" src="https://theme.files.wordpress.com/2016/05/carmack-photo1.jpg?w=640&amp;h=480" />
 
-We designed <em>Carmack</em> to look good on all devices — from desktop computers and laptops, to smartphones and tablets.</p>
+We designed <em>Carmack</em> to look good on all devices — from desktop computers and laptops, to smartphones and tablets.
 
 ## Post Formats
 
