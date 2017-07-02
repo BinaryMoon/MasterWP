@@ -6,21 +6,21 @@ permalink: /sponsors/
 
 ## What is MasterWP?
 
-MasterWP is a weekly email for WordPress professionals.
+MasterWP is a weekly email for WordPress professionals - currently sent to over **{{ site.subscribers }}** subscribers!
 
 Each week we find five interesting articles, resources and apps that help WordPress users and developers to be better at their job.
 
 There are a lot of places to find WordPress news; MasterWP stands out by finding readers the very best articles.
 
-We also pick out content that is not WordPress specific but may be of interest or useful. These cover things such as productivity, web development techniques, personal development, and business advice.
+We often pick out content that is not WordPress specific but may be of interest or useful. These cover things such as productivity, web development techniques, personal development, and business advice.
 
 The first issue of MasterWP was published on Wednesday February 2nd 2017, and a new issue has gone out every week since.
 
 ## Audience
 
-The MasterWP emails are targeted at WordPress professionals. Each email has an average of a 40% open rate, and a 10% click rate - both of which are very good for weekly email newsletters.
+The MasterWP emails are targeted at WordPress professionals. Each email has an average of a 42% open rate, and a 10% click rate - both of which are very good for weekly email newsletters.
 
-50% of our audience are from the USA, 10% are from the UK, the remaining 40% are spread around the world. This however shows that our emails have a good reach with native English speaking users.
+50% of our audience are from the USA, 10% are from the UK, the remaining 40% are spread around the world. This shows that our emails have a good reach with native English speaking users.
 
 ## Sponsorship
 
@@ -33,7 +33,7 @@ Each issue of MasterWP is sponsored by a different company. Sponsors get:
 
 The newsletter is currently in the early days but growing quickly. We're offering an introductory rate whilst we grow our subscriber numbers. This is:
 
-* $100 for a block of 4 issues
+* $150 for a block of 4 issues
 
 ## Past Sponsors
 
