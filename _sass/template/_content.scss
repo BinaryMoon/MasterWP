@@ -26,6 +26,17 @@
 
 	}
 
+	h1 {
+
+		font-weight: bold;
+
+	}
+
+	h2 {
+
+		//@include modular-scale( delta );
+	}
+
 	.intro {
 
 		@include modular-scale( delta );
