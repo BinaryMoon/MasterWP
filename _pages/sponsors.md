@@ -41,8 +41,8 @@ Past sponsors include (but are not limited to):
 
 * [Pro Theme Design](https://prothemedesign.com) - Premium WordPress Themes
 * [Anariel Design](http://anarieldesign.com) - Niche WordPress Themes
-* [WPZoom](http://wpzoom.com) - Quality WordPres Themes
-* [MHThemes](https://www.mhthemes.com/) - Magazine Theme Specialists
+* [WPZoom](http://wpzoom.com) - Quality WordPress Themes
+* [MH Themes](https://www.mhthemes.com/) - Magazine Theme Specialists
 
 ## Contact
 
