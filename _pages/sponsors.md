@@ -29,6 +29,8 @@ Each issue of MasterWP is sponsored by a different company. Sponsors get:
 * The sole advert spot in the issue(s) they sponsor ([see here](http://us13.campaign-archive2.com/?u=bf5d11ade9be022f552b86e69&id=51392b1447) for a preview).
 * A shout out on the MasterWP Facebook page.
 
+You can see the [sponsor requirements]({{ site.baseurl }}{% link _pages/sponsor-requirements.md %}) here.
+
 ## Rates
 
 The newsletter is currently in the early days but growing quickly. We're offering an introductory rate whilst we grow our subscriber numbers. This is:
