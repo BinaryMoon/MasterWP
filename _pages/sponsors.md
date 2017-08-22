@@ -35,7 +35,7 @@ You can see the [sponsor requirements]({{ site.baseurl }}{% link _pages/sponsor-
 
 The newsletter is currently in the early days but growing quickly. We're offering an introductory rate whilst we grow our subscriber numbers. This is:
 
-* $200 for a block of 4 issues
+* $250 for a block of 4 issues
 
 ## Past Sponsors
 
