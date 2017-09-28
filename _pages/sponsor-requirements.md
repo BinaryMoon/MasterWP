@@ -12,6 +12,7 @@ In order to add your promotion we will need the following items:
 
 For the description - you can see past sponsors in the following issues. This will give you an idea of the space available:
 
+* [MeksHQ](http://mailchi.mp/d23d4daab2e4/issue-22-wordpress-economy-fake-email-and-seo-1178541)
 * [MH Themes](http://us13.campaign-archive1.com/?u=bf5d11ade9be022f552b86e69&id=6804b86486)
 * [Pro Theme Design](http://us13.campaign-archive1.com/?u=bf5d11ade9be022f552b86e69&id=8ddf616006)
 * [WPZoom](http://us13.campaign-archive1.com/?u=bf5d11ade9be022f552b86e69&id=df359558d7)
