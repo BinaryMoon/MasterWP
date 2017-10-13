@@ -33,10 +33,25 @@
 
 	}
 
-	.branding {
+	img {
 
-		text-align: center;
-		padding: ( $grid-line-height * 4 ) $grid-gutter ( $grid-line-height * 3 ) ( $grid-gutter );
+		display: block;
+		max-height: $grid-line-height * 5;
+		float: left;
+		margin-right: $grid-gutter;
+
+	}
+
+	.container {
+
+		display: flex;
+		padding: ( $grid-line-height * 3 ) $grid-gutter ( $grid-line-height * 3 ) ( $grid-gutter );
+		justify-content: center;
+		align-items: center;
+
+	}
+
+	.branding {
 
 		h1 {
 
@@ -67,15 +82,7 @@
 		h2 {
 
 			@include modular-scale( zeta );
-
-		}
-
-		img {
-
-			max-height: 2.5rem;
-			margin-right: $grid-gutter / 2;
-			display: inline-block;
-			vertical-align: sub;
+			margin: 0;
 
 		}
 

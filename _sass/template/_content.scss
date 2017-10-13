@@ -5,7 +5,7 @@
 	@include modular-scale( epsilon );
 	@include container;
 	clear: both;
-	background: lighten( $canvas-color, 4% );
+	background: lighten( $canvas-color, 8% );
 
 	p:last-child {
 

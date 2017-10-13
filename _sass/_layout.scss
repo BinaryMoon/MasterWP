@@ -1,6 +1,7 @@
 body {
 
-	background: $canvas-color url( ../images/masthead.png?#{$decache} ) top center no-repeat;
+	//background: $canvas-color url( ../images/masthead.png?#{$decache} ) top center no-repeat;
+	background: $canvas-color;
 	background-size: contain;
 
 }
