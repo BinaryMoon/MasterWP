@@ -108,3 +108,34 @@ svg {
 	}
 
 }
+
+.next-issue {
+
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	padding: ( $grid-line-height / 2 ) $grid-gutter;
+	background: $canvas-red;
+	color: $canvas-white;
+	z-index: layer( next_issue );
+	text-align: center;
+
+	.button {
+
+		width: auto;
+		margin: 0 1rem;
+		background: $link-color;
+		color: contrast( $link-color );
+
+	}
+
+}
+
+.countdown-clock {
+
+	display: inline-block;
+	@include modular-scale( delta );
+	font-family: $font-family-header;
+
+}

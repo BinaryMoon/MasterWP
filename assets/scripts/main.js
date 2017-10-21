@@ -10,6 +10,8 @@
 
 {% include_relative mwp-theme-list.js %}
 
+{% include_relative mwp-countdown.js %}
+
 ;( function( window, document, $ ) {
 
 	'use strict';
@@ -25,6 +27,7 @@
 			MWP_FilterThemes.init();
 			MWP_ThemeList.init();
 			MWP_ResponsiveIframe.init();
+			MWP_Countdown.init( '.countdown-clock' );
 
 		}
 	);
