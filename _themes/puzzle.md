@@ -4,7 +4,7 @@ theme_info_url: https://prothemedesign.com/theme/puzzle/
 theme_demo_url: https://prothemedesign.com/theme-preview/puzzle/
 developer: pro-theme-design
 intro: Puzzle is a visual theme for photographers and artists who want to tell stories.
-theme_tags: magazine slider jetpack
+theme_tags: magazine slider jetpack woo-commerce
 image: /assets/themes/puzzle/screenshot.png
 price: 99
 ---

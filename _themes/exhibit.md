@@ -4,7 +4,7 @@ theme_info_url: https://prothemedesign.com/theme/exhibit/
 theme_demo_url: https://prothemedesign.com/theme-preview/exhibit/
 developer: pro-theme-design
 intro: A super minimal portfolio theme for designers.
-theme_tags: portfolio slider jetpack projects business
+theme_tags: portfolio slider jetpack projects business woo-commerce
 image: /assets/themes/exhibit/screenshot.png
 price: 99
 ---

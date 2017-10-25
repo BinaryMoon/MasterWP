@@ -4,7 +4,7 @@ theme_info_url: https://prothemedesign.com/theme/carmack/
 theme_demo_url: https://prothemedesign.com/theme-preview/carmack/
 developer: pro-theme-design
 intro: A magazine theme for car lovers.
-theme_tags: magazine slider jetpack projects
+theme_tags: magazine slider jetpack projects woo-commerce
 image: /assets/themes/carmack/screenshot.png
 price: 99
 ---
