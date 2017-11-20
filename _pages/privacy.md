@@ -5,7 +5,7 @@ permalink: /privacy/
 
 ### What is this Privacy Policy for?
 
-This privacy policy is for this website [masterwp.co] and governs the privacy of its users who choose to use it.
+This privacy policy is for this website, [MasterWP](https://masterwp.co), and governs the privacy of its users who choose to use it.
 
 The policy sets out the different areas where user privacy is concerned and outlines the obligations & requirements of the users, the website and website owners. Furthermore the way this website processes, stores and protects user data and information will also be detailed within this policy.
 
@@ -20,7 +20,7 @@ This website uses cookies to better the users experience while visiting the webs
 Cookies are small files saved to the user's computers hard drive that track, save and store information about the user's interactions and usage of the website. This allows the website, through its server to provide the users with a tailored experience within this website.
 Users are advised that if they wish to deny the use and saving of cookies from this website on to their computers hard drive they should take necessary steps within their web browsers security settings to block all cookies from this website and its external serving vendors.
 
-This website uses tracking software to monitor its visitors to better understand how they use it. This software is provided by Google Analytics which uses cookies to track visitor usage. The software will save a cookie to your computers hard drive in order to track and monitor your engagement and usage of the website, but will not store, save or collect personal information. You can read Google's privacy policy here for further information [ http://www.google.com/privacy.html ].
+This website uses tracking software to monitor its visitors to better understand how they use it. This software is provided by Google Analytics which uses cookies to track visitor usage. The software will save a cookie to your computers hard drive in order to track and monitor your engagement and usage of the website, but will not store, save or collect personal information. You can read [Google's privacy policy here](http://www.google.com/privacy.html) for further information.
 
 Other cookies may be stored to your computers hard drive by external vendors when this website uses referral programs, sponsored links or adverts. Such cookies are used for conversion and referral tracking and typically expire after 30 days, though some may take longer. No personal information is stored, saved or collected.
 
@@ -36,7 +36,8 @@ This website operates an email newsletter program, used to inform subscribers ab
 
 Subscriptions are taken in compliance with UK Spam Laws detailed in the Privacy and Electronic Communications Regulations 2003. All personal details relating to subscriptions are held securely and in accordance with the Data Protection Act 1998. No personal details are passed on to third parties nor shared with companies / people outside of the company that operates this website. Under the Data Protection Act 1998 you may request a copy of personal information held about you by this website's email newsletter program. A small fee will be payable. If you would like a copy of the information held on you please write to the business address at the bottom of this policy.
 
-Email marketing campaigns published by this website or its owners may contain tracking facilities within the actual email. Subscriber activity is tracked and stored in a database for future analysis and evaluation. Such tracked activity may include; the opening of emails, forwarding of emails, the clicking of links within the email content, times, dates and frequency of activity [this is by no far a comprehensive list].
+Email marketing campaigns published by this website or its owners may contain tracking facilities within the actual email. Subscriber activity is tracked and stored in a database for future analysis and evaluation. Such tracked activity may include; the opening of emails, forwarding of emails, the clicking of links within the email content, times, dates and frequency of activity [this is by no means a comprehensive list].
+
 This information is used to refine future email campaigns and supply the user with more relevant content based around their activity.
 
 In compliance with UK Spam Laws and the Privacy and Electronic Communications Regulations 2003 subscribers are given the opportunity to un-subscribe at any time through an automated system. This process is detailed at the footer of each email campaign. If an automated un-subscription system is unavailable clear instructions on how to un-subscribe will by detailed instead.
@@ -63,7 +64,7 @@ This website may use social sharing buttons which help share web content directl
 
 ### Shortened Links in Social Media
 
-This website and its owners through their social media platform accounts may share web links to relevant web pages. By default some social media platforms shorten lengthy urls [web addresses] (this is an example: http://bit.ly/zyVUBo).
+This website and its owners through their social media platform accounts may share web links to relevant web pages. By default some social media platforms shorten lengthy urls [web addresses](http://bit.ly/2jJTLEg) (this is an example: http://bit.ly/2jJTLEg).
 
 Users are advised to take caution and good judgement before clicking any shortened urls published on social media platforms by this website and its owners. Despite the best efforts to ensure only genuine urls are published many social media platforms are prone to spam and hacking and therefore this website and its owners cannot be held liable for any damages or implications caused by visiting any shortened links.
 
@@ -71,6 +72,6 @@ Users are advised to take caution and good judgement before clicking any shorten
 
 * [Data Protection Act 1998](http://www.legislation.gov.uk/ukpga/1998/29/contents)
 * [Privacy and Electronic Communications Regulations 2003](http://www.legislation.gov.uk/uksi/2003/2426/contents/made)
-* [Privacy and Electronic Communications Regulations 2003 - The Guide](http://www.ico.gov.uk/for_organisations/privacy_and_electronic_communications/the_guide.aspx)
+* [Privacy and Electronic Communications Regulations 2003 - The Guide](https://ico.org.uk/for-organisations/guide-to-pecr/)
 * [Facebook Privacy Policy](http://www.facebook.com/about/privacy/)
 * [Mailchimp Privacy Policy](http://mailchimp.com/legal/privacy/)
