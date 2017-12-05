@@ -2,7 +2,7 @@
 title: Zeko
 theme_info_url: https://www.anarieldesign.com/themes/nonprofit-wordpress-theme/
 theme_demo_url: http://www.anarieldesign.com/demos/?theme=Zeko
-developer: Anariel Design
+developer: anarieldesign
 intro: A easily customizable theme optimized for charity and non-profit niche.
 theme_tags: business charity slider jetpack woo-commerce
 image: /assets/themes/zeko/screenshot.png
