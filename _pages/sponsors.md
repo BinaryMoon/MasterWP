@@ -46,7 +46,8 @@ Past sponsors include (but are not limited to):
 * [WPZoom](http://wpzoom.com) - Quality WordPress Themes
 * [MH Themes](https://www.mhthemes.com/) - Magazine Theme Specialists
 * [MeksHQ](http://mekshq.com/) - WordPress Themes
-* [Siteground](https://www.siteground.com/index.htm?afcode=d66777e51d66ab7cb4a2b86e54427585) - Website hosting
+* [Siteground](https://www.siteground.com/) - Website hosting
+* [34sp](https://34sp.com/) - Website hosting
 
 ## Contact
 
