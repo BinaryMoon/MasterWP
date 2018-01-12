@@ -12,7 +12,7 @@ repository: BinaryMoon/MasterWP
 permalink: /blog/:year/:title/
 google_analytics: UA-55722-24
 logo: /assets/images/favicon-192.png
-subscribers: '1,829'
+subscribers: '1,912'
 
 # Build settings
 markdown: kramdown
