@@ -18,3 +18,5 @@ The designs are primarily for T-Shirts for me and Alex to wear at conferences. W
 I am open to creative or unusual ideas and have a small budget for getting the designs made.
 
 If you are interested then please send me an email, with a quote, and examples of similar designs you have done, to [hello@masterwp.co](mailto:hello@masterwp.co).
+
+Thanks - Ben.
