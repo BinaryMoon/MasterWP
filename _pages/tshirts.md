@@ -1,5 +1,5 @@
 ---
-title: T-Shirt Designer Wanted
+title: Graphic Designer Wanted
 permalink: /t-shirt-designer/
 description: Looking for a T-Shirt Designer
 ---
