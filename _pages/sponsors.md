@@ -27,28 +27,25 @@ The MasterWP emails are targeted at WordPress professionals. Each email has an a
 Each issue of MasterWP is sponsored by a different company. Sponsors get:
 
 * The sole advert spot in the issue(s) they sponsor ([see here](http://us13.campaign-archive2.com/?u=bf5d11ade9be022f552b86e69&id=51392b1447) for a preview).
-* A shout out on the MasterWP Facebook page.
 
 You can see the [sponsor requirements]({{ site.baseurl }}{% link _pages/sponsor-requirements.md %}) here.
 
 ## Rates
 
-The newsletter is currently in the early days but growing quickly. We're offering an introductory rate whilst we grow our subscriber numbers. This is:
-
-* $400 for a block of 4 issues
+MasterWP is one of, if not *the* fastest growing communities in the WordPress space. We're currently offering sponsorship in blocks of issues: please email us (Ben and Alex) for rates, at [hello@masterwp.co](mailto:hello@masterwp.co)
 
 ## Past Sponsors
 
 Past sponsors include (but are not limited to):
 
+* [SiteGround](https://www.siteground.com/) - WordPress hosting
+* [34SP](https://34sp.com/) - WordPress hosting
 * [Pro Theme Design](https://prothemedesign.com) - Premium WordPress Themes
 * [Anariel Design](http://anarieldesign.com) - Niche WordPress Themes
 * [WPZoom](http://wpzoom.com) - Quality WordPress Themes
 * [MH Themes](https://www.mhthemes.com/) - Magazine Theme Specialists
 * [MeksHQ](http://mekshq.com/) - WordPress Themes
-* [Siteground](https://www.siteground.com/) - Website hosting
-* [34sp](https://34sp.com/) - Website hosting
 
 ## Contact
 
-If you would like to sponsor a block of four issues, or have some questions, then please email us (Ben and Alex) at [hello@masterwp.co](mailto:hello@masterwp.co).
+If you would like to sponsor, or have some questions, then please email us (Ben and Alex) at [hello@masterwp.co](mailto:hello@masterwp.co).
