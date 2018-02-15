@@ -11,16 +11,14 @@ price: 69
 
 <em>Inspiro</em> is a professional photo and video focused theme with a modern design. Packed with features including a fullscreen slideshow that supports YouTube & self-hosted videos in background, widgetized homepage and gallery module, Inspiro is perfect for showing off your portfolio, images and videos.
 
-
 ## Page Builder Integration
 
-One of the most exciting additions to Inspiro is the support for a drag-and-drop **Page Builder**. Install the free **Unyson** plugin and enjoy drag-and-drop layout customization. Inspiro is tightly integrated for ease of use. ![inspiro-builder-1](https://www.wpzoom.com/wp-content/uploads/2016/12/inspiro-builder-1.png) We want to make using the drag and drop **Page Builder** easy for you, so we've included **four pre-built templates** which you can import to Inspiro with just one click. Below you can see a few examples of pages created using the Page Builder:
+One of the most exciting additions to Inspiro is the support for a drag-and-drop **Page Builder**. Install the free **Unyson** plugin and enjoy drag-and-drop layout customization. Inspiro is tightly integrated for ease of use. ![inspiro-builder-1](https://www.wpzoom.com/wp-content/uploads/2016/12/inspiro-builder-1.png) We want to make using the drag and drop **Page Builder** easy for you, so we've included **four pre-built templates** which you can import to Inspiro with just one click. Below you can see a few examples of pages created using the Page Builder:
 
-*   [Business Homepage](http://demo.wpzoom.com/inspiro-agency/)
-*   [Agency Homepage](http://demo.wpzoom.com/inspiro/homepage-2/) - _this one is very similar to default widgetized homepage_
-*   [About](http://demo.wpzoom.com/inspiro/about-2/)
-*   [Services](http://demo.wpzoom.com/inspiro/services/)
-
+* [Business Homepage](http://demo.wpzoom.com/inspiro-agency/)
+* [Agency Homepage](http://demo.wpzoom.com/inspiro/homepage-2/) - _this one is very similar to default widgetized homepage_
+* [About](http://demo.wpzoom.com/inspiro/about-2/)
+* [Services](http://demo.wpzoom.com/inspiro/services/)
 
 ## Responsive Layout with this WordPress gallery theme
 
@@ -32,7 +30,7 @@ The Homepage Slideshow supports **YouTube** and **self-hosted** video background
 
 ## Video Lightbox in Homepage Slideshow
 
-Inspiro comes with a beautiful video lightbox integrated in the homepage slideshow where you can feature **YouTube** or **Vimeo** videos. This makes this WordPress gallery theme a great choice if you have a video of a product that you want to feature on the front page.<iframe src="https://player.vimeo.com/video/172743649?title=0&amp;byline=0&amp;portrait=0" width="800" height="550" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+Inspiro comes with a beautiful video lightbox integrated in the homepage slideshow where you can feature **YouTube** or **Vimeo** videos. This makes this WordPress gallery theme a great choice if you have a video of a product that you want to feature on the front page.<iframe src="https://player.vimeo.com/video/172743649?title=0&amp;byline=0&amp;portrait=0" width="800" height="550" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 ## Live Customizer
 
@@ -40,7 +38,7 @@ Customize **colors** and **fonts** in the theme directly from the Theme Customiz
 
 ## Sliding Sidebar
 
-You can create your own sidebar using available widgets. The sliding panel works great on mobile devices too, and will display at the site navigation. ![Inspiro Sidebar](https://www.wpzoom.com/wp-content/uploads/2015/05/Screen-Shot-2015-05-18-at-18.22.05.png)
+You can create your own sidebar using available widgets. The sliding panel works great on mobile devices too, and will display at the site navigation. ![Inspiro Sidebar](https://www.wpzoom.com/wp-content/uploads/2015/05/Screen-Shot-2015-05-18-at-18.22.05.png)
 
 ## Widgetized Homepage & Unique Widgets
 
@@ -52,7 +50,7 @@ Using the [Gallery](http://demo.wpzoom.com/inspiro/portfolio/) feature you can c
 
 [![gallery-page](https://www.wpzoom.com/wp-content/uploads/2014/08/gallery-page.png)](https://www.wpzoom.com/wp-content/uploads/2014/08/gallery-page.png)
 
-If you have **Jetpack** plugin installed, enable the **Tiled Galleries** feature, and you can create beautiful galleries in your posts:
+If you have **Jetpack** plugin installed, enable the **Tiled Galleries** feature, and you can create beautiful galleries in your posts:
 
 [![inspiro-post](https://www.wpzoom.com/wp-content/uploads/2014/08/inspiro-post.png)](https://www.wpzoom.com/wp-content/uploads/2014/08/inspiro-post.png)
 

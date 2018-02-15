@@ -11,32 +11,21 @@ price: 69
 
 <em>Academica Pro 3</em> is a multi-purpose and responsive theme with a widgetized 3-column homepage layout and event calendar integration, Academica Pro 3.0 is perfect for Education, Corporate and Social/Non-Profit websites.
 
-* * *
-
 ## Responsive Layout
 
 **Academica Pro 3.0** features a fluid, responsive layout, so your pages will display perfectly across mobile and tablet devices. Every detail of your website will look perfect and professional, regardless of what resolution or screen size visitors have. ![](https://www.wpzoom.com/wp-content/uploads/2017/06/academica-30-responsive.png)
 
-* * *
-
 ## 4 Homepage Templates
 
-The location and size of the homepage slideshow can be changed easily thanks to the 4 included homepage templates. By changing the slideshow size and location you can easily get 4 different homepage layouts. ![](https://www.wpzoom.com/wp-content/uploads/2017/06/home-academica30.png)   Below you can see the **demo** of all **homepage templates**: [Default](http://demo.wpzoom.com/academica-pro-3/) [Full-width Slideshow](http://demo.wpzoom.com/academica-pro-3/homepage-2-2/) [Slideshow at the Top](http://demo.wpzoom.com/academica-pro-3/homepage-2/) [Small Slideshow](http://demo.wpzoom.com/academica-pro-3/homepage-3/)
-
-* * *
-
+The location and size of the homepage slideshow can be changed easily thanks to the 4 included homepage templates. By changing the slideshow size and location you can easily get 4 different homepage layouts. ![](https://www.wpzoom.com/wp-content/uploads/2017/06/home-academica30.png)  Below you can see the **demo** of all **homepage templates**: [Default](http://demo.wpzoom.com/academica-pro-3/) [Full-width Slideshow](http://demo.wpzoom.com/academica-pro-3/homepage-2-2/) [Slideshow at the Top](http://demo.wpzoom.com/academica-pro-3/homepage-2/) [Small Slideshow](http://demo.wpzoom.com/academica-pro-3/homepage-3/)
 
 ## Events Integration
 
 Built-in support for **free** [The Events Calendar](https://wordpress.org/plugins/the-events-calendar/) plugin allows you to use your Academica Pro 3.0-powered site as a powerful event calendar with all the features you need. Quickly add events and have them displayed on their own page or in widgets anywhere on your site. ![](https://www.wpzoom.com/wp-content/uploads/2017/06/academica-30-events.png)
 
-* * *
-
 ## Personalize to Match Your Style
 
-The **Live Customizer** allows you to make changes to the theme and get an immediate preview. Customize **Colors, Fonts, Background, Logo, Menu**, **Widgets** and more, all with a live preview. ![](https://www.wpzoom.com/wp-content/uploads/2017/06/academica-30-colors.png)   You can also set a custom color to each widget individually by selecting one of the 5 pre-defined widget styles: ![](https://www.wpzoom.com/wp-content/uploads/2017/06/academica-30-widgets.png)   This is very useful, especially when you want to highlight the content from a specific widget – such as an announcement!
-
-* * *
+The **Live Customizer** allows you to make changes to the theme and get an immediate preview. Customize **Colors, Fonts, Background, Logo, Menu**, **Widgets** and more, all with a live preview. ![](https://www.wpzoom.com/wp-content/uploads/2017/06/academica-30-colors.png) You can also set a custom color to each widget individually by selecting one of the 5 pre-defined widget styles: ![](https://www.wpzoom.com/wp-content/uploads/2017/06/academica-30-widgets.png) This is very useful, especially when you want to highlight the content from a specific widget – such as an announcement!
 
 ## Other Features
 
