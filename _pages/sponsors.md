@@ -18,7 +18,7 @@ The first issue of MasterWP was published on Wednesday February 2nd 2017, and a 
 
 ## Audience
 
-The MasterWP emails are targeted at WordPress professionals. Each email has an average of a 42% open rate, and a 10% click rate - both of which are very good for weekly email newsletters.
+The MasterWP emails are targeted at WordPress professionals. Each email has an average of a 33% open rate, and a 10% click rate - both of which are very good for weekly email newsletters.
 
 50% of our audience are from the USA, 10% are from the UK, the remaining 40% are spread around the world. This shows that our emails have a good reach with native English speaking users.
 
