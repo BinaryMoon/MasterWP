@@ -45,6 +45,7 @@ Past sponsors include (but are not limited to):
 * [WPZoom](http://wpzoom.com) - Quality WordPress Themes
 * [MH Themes](https://www.mhthemes.com/) - Magazine Theme Specialists
 * [MeksHQ](http://mekshq.com/) - WordPress Themes
+* [MailOptin](https://mailoptin.io/) - Email automation and lead generation
 
 ## Contact
 
