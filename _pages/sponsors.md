@@ -39,12 +39,14 @@ MasterWP is one of, if not *the* fastest growing communities in the WordPress sp
 Past sponsors include (but are not limited to):
 
 * [SiteGround](https://www.siteground.com/) - WordPress hosting
+* [Kinsta](https://kinsta.com) – WordPress hosting
 * [34SP](https://34sp.com/) - WordPress hosting
 * [Pro Theme Design](https://prothemedesign.com) - Premium WordPress Themes
 * [Anariel Design](http://anarieldesign.com) - Niche WordPress Themes
 * [WPZoom](http://wpzoom.com) - Quality WordPress Themes
 * [MH Themes](https://www.mhthemes.com/) - Magazine Theme Specialists
 * [MeksHQ](http://mekshq.com/) - WordPress Themes
+* [MailOptin](https://mailoptin.io/) - Email automation and lead generation
 
 ## Contact
 
