@@ -6,6 +6,8 @@
 
 {% include_relative mwp-natural-language-form.js %}
 
+{% include_relative mwp-contact.js %}
+
 {% include_relative mwp-filter-themes.js %}
 
 {% include_relative mwp-theme-list.js %}
@@ -31,6 +33,7 @@
 			MWP_ResponsiveIframe.init();
 			MWP_Countdown.init( '.countdown-clock' );
 			MWP_CheckMailchimp.init();
+			MWP_Contact.init();
 
 		}
 	);
