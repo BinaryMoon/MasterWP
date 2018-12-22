@@ -1,0 +1,29 @@
+---
+layout: page
+body_class: contact
+---
+
+{{ content }}
+
+<form class="formspree form-contact" method="POST">
+	<label>
+		<span>Your Name</span>
+		<input type="text" name="name" placeholder="Jane Smith" required="">
+	</label>
+
+	<label>
+		<span>Your Email Address</span>
+		<input type="email" name="_replyto" placeholder="name@domain.com" required="">
+	</label>
+
+	<label>
+		<span>Message</span>
+		<textarea name="message" rows="6" required=""></textarea>
+	</label>
+
+	<input type="submit" value="Send" class="button">
+
+	<input type="hidden" name="_subject" id="_subject" value="MasterWP Contact Form">
+	<input type="hidden" name="_next" value="//msterwp.co/contact/thanks/">
+	<input type="text" name="_gotcha" style="display:none">
+</form>
