@@ -10,6 +10,8 @@
 
 {% include_relative mwp-theme-list.js %}
 
+{% include_relative mwp-check-mailchimp.js %}
+
 {% include_relative mwp-countdown.js %}
 
 ;( function( window, document, $ ) {
@@ -28,6 +30,7 @@
 			MWP_ThemeList.init();
 			MWP_ResponsiveIframe.init();
 			MWP_Countdown.init( '.countdown-clock' );
+			MWP_CheckMailchimp.init();
 
 		}
 	);

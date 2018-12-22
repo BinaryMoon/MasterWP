@@ -24,6 +24,20 @@ a {
 
 }
 
+.warning {
+
+	background: $canvas-red;
+	color: white;
+	padding: $grid-gutter / 2;
+	display: none;
+
+	a {
+
+		color: white;
+
+	}
+
+}
 .button {
 
 	width: 100%;
