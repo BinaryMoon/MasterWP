@@ -38,6 +38,14 @@ a {
 	}
 
 }
+
+.helper {
+
+	margin-top: $grid-line-height * 2;
+	@include modular-scale( zeta );
+
+}
+
 .button {
 
 	width: 100%;
