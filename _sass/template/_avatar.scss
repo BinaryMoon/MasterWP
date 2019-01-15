@@ -1,0 +1,19 @@
+.avatar {
+
+	max-width: $grid-gutter * 3;
+	float: left;
+
+	@include for-phone {
+
+		max-width: $grid-gutter * 2;
+
+	}
+
+	img {
+
+		margin: ( -0.5 * $grid-line-height ) ( 0.5 * $grid-gutter ) ( 0.5 * $grid-line-height ) ( -0.5 * $grid-gutter );
+		display: block;
+
+	}
+
+}

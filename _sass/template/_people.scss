@@ -22,36 +22,6 @@
 
 		}
 
-		strong {
-
-			@include modular-scale( epsilon );
-			display: block;
-			margin-bottom: $grid-line-height / 2;
-			margin-right: $grid-gutter * -1.25;
-			transform: translateX( $grid-gutter * -1.25 );
-
-			&:before {
-
-				display: inline-block;
-				content: '';
-				border-bottom: $border-width solid $body-copy-color;
-				width: $grid-gutter;
-				vertical-align: middle;
-				margin-right: $grid-gutter / 4;
-
-			}
-
-		}
-
-		img {
-
-			max-width: 8rem;
-			float:left;
-			margin: ( -0.5 * $grid-line-height ) ( 0.5 * $grid-gutter ) ( 0.5 * $grid-line-height ) ( -0.5 * $grid-gutter );
-			//transform: rotate( -6deg );
-
-		}
-
 	}
 
 }

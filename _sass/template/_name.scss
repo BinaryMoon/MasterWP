@@ -1,0 +1,37 @@
+.name {
+
+	@include modular-scale( epsilon );
+	display: block;
+	font-weight: bold;
+	margin-bottom: $grid-line-height / 2;
+	// margin-right: $grid-gutter * -1.25;
+	// transform: translateX( $grid-gutter * -1.25 );
+	font-style: normal;
+
+	* {
+
+		@include modular-scale( epsilon );
+
+	}
+
+	.blip {
+
+		position: relative;
+
+		&:before {
+
+			display: block;
+			content: '';
+			border-bottom: $border-width solid $body-copy-color;
+			width: $grid-gutter;
+			vertical-align: middle;
+			margin-right: $grid-gutter / 4;
+			position: absolute;
+			left: $grid-gutter * -1.25;
+			top: $grid-line-height / 2;
+
+		}
+
+	}
+
+}
