@@ -1,0 +1,91 @@
+.testimonials {
+
+	position: relative;
+
+	.testimonial {
+
+		display: none;
+
+		&.current {
+
+			display: block;
+
+		}
+
+	}
+
+	nav {
+
+		width: 100%;
+		display: flex;
+		justify-content: space-between;
+		margin-bottom: $grid-line-height * 2;
+
+		.tab {
+
+			background: url( /assets/images/icon-heart.png ) center no-repeat;
+			background-size: contain;
+			padding: ( $grid-line-height / 3 );
+			box-shadow: none;
+
+			&:hover,
+			&.selected {
+
+				background-image: url( /assets/images/icon-heart-selected.png );
+
+			}
+
+		}
+
+		.arrow {
+
+			@include modular-scale( zeta );
+			padding: 0.25rem 0.5rem;
+
+		}
+
+	}
+
+}
+
+.testimonial blockquote {
+
+	$testimonialIconSize: 2rem;
+
+	padding: 0;
+	margin: 0;
+	overflow: visible;
+
+	p {
+
+		@include modular-scale( delta );
+		margin-bottom: ( $grid-line-height / 2 );
+
+		@include for-tablet {
+
+			@include modular-scale( epsilon );
+
+		}
+
+	}
+
+	.user {
+
+		color: black;
+		text-decoration: none;
+
+		&:hover {
+
+			text-decoration: underline;
+
+		}
+
+	}
+
+	a:not(.user) {
+
+		text-align: right;
+
+	}
+
+}
