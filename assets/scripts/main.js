@@ -16,6 +16,8 @@
 
 {% include_relative mwp-countdown.js %}
 
+{% include_relative jquery.slider.js %}
+
 ;( function( window, document, $ ) {
 
 	'use strict';
@@ -34,6 +36,14 @@
 			MWP_Countdown.init( '.countdown-clock' );
 			MWP_CheckMailchimp.init();
 			MWP_Contact.init();
+
+			$( '.testimonials' ).elementalSlides(
+				{
+					group_selector: '.testimonial',
+					autoplay: 1,
+					nav_arrows: true,
+				}
+			);
 
 		}
 	);
