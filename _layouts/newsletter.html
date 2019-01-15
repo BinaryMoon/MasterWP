@@ -21,7 +21,6 @@ body_class: home
 
 		<h2>Popular Editions</h2>
 
-		<blockquote class="twitter-tweet" data-cards="hidden" data-lang="en"><p lang="en" dir="ltr">MasterWP is a quality weekly newsletter for WordPress professionals. Check it out! ⏩ <a href="https://t.co/vngC921BGZ">https://t.co/vngC921BGZ</a></p>&mdash; Gary Jones (@GaryJ) <a href="https://twitter.com/GaryJ/status/907255620977479681?ref_src=twsrc%5Etfw">September 11, 2017</a></blockquote>
 		<div class="display_archive">
 			<div class="campaign">12/12/2018 - <a href="https://us13.campaign-archive.com/?u=bf5d11ade9be022f552b86e69&id=ed7e0310b5">Issue 96 - guest editor, Matt Mullenweg</a></div>
 			<div class="campaign">24/10/2018 - <a href="https://us13.campaign-archive.com/?u=bf5d11ade9be022f552b86e69&id=f4b2d15199">Issue 89 - accessibility special</a></div>
@@ -30,20 +29,25 @@ body_class: home
 			<div class="campaign"><a href="{% link _pages/archives.md %}"><strong>More &rsaquo;</strong></a></div>
 		</div>
 
-		<blockquote class="twitter-tweet" data-cards="hidden" data-lang="en"><p lang="en" dir="ltr">If you&#39;re looking for a high quality WordPress newsletter, check out <a href="https://t.co/xTs4pPzLrS">https://t.co/xTs4pPzLrS</a> by <a href="https://twitter.com/AlexDenning">@AlexDenning</a> and <a href="https://twitter.com/BinaryMoon">@BinaryMoon</a></p>&mdash; Jeff (@jeffr0) <a href="https://twitter.com/jeffr0/status/865716522538475520">May 19, 2017</a></blockquote>
+	</div>
 
-		<blockquote class="twitter-tweet" data-cards="hidden" data-lang="en"><p lang="en" dir="ltr">Started following the MasterWP weekly newsletter for WordPress professionals three weeks ago 10/10 would recommend ⏩ <a href="https://t.co/LeGBbtmtGv">https://t.co/LeGBbtmtGv</a></p>&mdash; Remkus de Vries (@DeFries) <a href="https://twitter.com/DeFries/status/885139402309160960">July 12, 2017</a></blockquote>
+	<div class="content">
 
-		<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">One of the only newsletters I actually read. <a href="https://t.co/BXvIGl1q06">https://t.co/BXvIGl1q06</a></p>&mdash; Bridget Willard (@YouTooCanBeGuru) <a href="https://twitter.com/YouTooCanBeGuru/status/1019640180540465152?ref_src=twsrc%5Etfw">July 18, 2018</a></blockquote>
+		<h2>Testimonials</h2>
 
-		<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Great stuff as always &gt;&gt; Friends, if you didn&#39;t sign up yet check out back issues and sign up for the next one! <a href="https://t.co/xJAMplepRv">https://t.co/xJAMplepRv</a></p>&mdash; Wholegrain Digital (@eatwholegrain) <a href="https://twitter.com/eatwholegrain/status/882514979085332481">July 5, 2017</a></blockquote>
-
-		<blockquote class="twitter-tweet" data-cards="hidden" data-lang="en"><p lang="en" dir="ltr">&quot;A newsletter for WordPress professionals to look forward to&quot; by great guys <a href="https://twitter.com/BinaryMoon">@BinaryMoon</a> &amp; <a href="https://twitter.com/AlexDenning">@AlexDenning</a> ❤<a href="https://t.co/VD10BTjeOF">https://t.co/VD10BTjeOF</a></p>&mdash; Ana Segota (@Ana_Segota) <a href="https://twitter.com/Ana_Segota/status/844152873336430592">March 21, 2017</a></blockquote>
-
-		<blockquote class="twitter-tweet" data-cards="hidden" data-lang="en"><p lang="en" dir="ltr">Not an April Fool&#39;s joke. This is genuinely a great newsletter! <a href="https://t.co/Egx0HZR2vx">https://t.co/Egx0HZR2vx</a></p>&mdash; WP Chat (@wpchat) <a href="https://twitter.com/wpchat/status/848264623186956290">April 1, 2017</a></blockquote>
-
-		<blockquote class="twitter-tweet" data-cards="hidden" data-lang="en"><p lang="en" dir="ltr">Just found &amp; subscribed: MasterWP is a quality weekly newsletter for WordPress professionals. Check it out! ⏩ <a href="https://t.co/CPiB4gJE2w">https://t.co/CPiB4gJE2w</a></p>&mdash; Coach Birgit Olzem (@CoachBirgit) <a href="https://twitter.com/CoachBirgit/status/871786625973571584">June 5, 2017</a></blockquote>
-
-		<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+		<div class="testimonials">
+		{% for testimonial in site.data.testimonials %}
+			<div class="testimonial">
+				<blockquote>
+					<div class="avatar"><img src="/assets/avatars/{{ testimonial.userlink }}.jpg" alt="" /></div>
+					<p class="name">
+						<span class="blip"></span>
+						<a href="https://twitter.com/{{ testimonial.userlink }}" class="user">{{ testimonial.user }}</a> - {{ testimonial.url }}
+					</p>
+					<p>{{ testimonial.tweet }}</p>
+				</blockquote>
+			</div>
+		{% endfor %}
+		</div>
 
 	</div>
