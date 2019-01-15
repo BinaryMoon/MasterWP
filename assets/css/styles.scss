@@ -12,12 +12,15 @@
 @import "lib/_components";
 
 // Template elements
+@import "template/_avatar";
 @import "template/_header";
 @import "template/_footer";
 @import "template/_people";
+@import "template/_name";
 @import "template/_newsletter";
 @import "template/_theme";
 @import "template/_content";
+@import "template/_testimonial";
 @import "template/_themes-list";
 @import "template/_theme-developers";
 @import "template/_natural-language-form";
