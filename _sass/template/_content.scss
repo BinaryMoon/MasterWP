@@ -24,6 +24,12 @@
 		@include modular-scale( gamma );
 		margin-bottom: $grid-line-height * $grid-line-height-multiplier;
 
+		@include for-phone {
+
+			@include modular-scale( delta );
+
+		}
+
 	}
 
 	h1 {
