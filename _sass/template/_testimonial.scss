@@ -16,31 +16,25 @@
 
 	nav {
 
-		width: 100%;
-		display: flex;
-		justify-content: space-between;
-		margin-bottom: $grid-line-height * 2;
+		position: absolute;
+		right: 0;
+		top: $grid-line-height * -3.25;
 
 		.tab {
 
-			background: url( /assets/images/icon-heart.png ) center no-repeat;
-			background-size: contain;
-			padding: ( $grid-line-height / 3 );
-			box-shadow: none;
-
-			&:hover,
-			&.selected {
-
-				background-image: url( /assets/images/icon-heart-selected.png );
-
-			}
+			display: none;
 
 		}
 
 		.arrow {
 
-			@include modular-scale( zeta );
-			padding: 0.25rem 0.5rem;
+			background: transparent;
+			padding: 0;
+			width: 3rem;
+			height: 3rem;
+			color: black;
+			font-size: 2rem;
+			box-shadow: none;
 
 		}
 

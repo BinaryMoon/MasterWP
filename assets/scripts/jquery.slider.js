@@ -16,8 +16,8 @@
 	$.fn.elementalSlides = function( options ) {
 
 		var i18n = {
-			slide_next: 'Next Slide',
-			slide_prev: 'Previous Slide',
+			slide_next: '&#8594;<span class="screen-reader-text">Next Slide</span>',
+			slide_prev: '&#8592;<span class="screen-reader-text">Previous Slide</span>',
 			slide_number: 'Slide #',
 			slide_controls_label: 'Slider Buttons',
 		};
