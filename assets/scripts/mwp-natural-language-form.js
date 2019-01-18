@@ -32,10 +32,12 @@ var MWP_NaturalLanguageForm = ( function() {
 			var options = '<ul>';
 
 			// Loop through options and generate a list of choices.
-			$this.find( 'option' ).each( function() {
-				var $option = $( this );
-				options = options + '<li><a href="#" data-value="' + $option.val() + '">' + $option.text() + '</a></li>';
-			});
+			$this.find( 'option' ).each(
+				function() {
+					var $option = $( this );
+					options = options + '<li><a href="#" data-value="' + $option.val() + '">' + $option.text() + '</a></li>';
+				}
+			);
 
 			options = options + '</ul>';
 
@@ -103,10 +105,6 @@ var MWP_NaturalLanguageForm = ( function() {
 		$( document ).on(
 			'click',
 			function( e ) {
-
-				e.preventDefault();
-
-				console.log( 'click' );
 
 				hideOptionBoxes();
 
