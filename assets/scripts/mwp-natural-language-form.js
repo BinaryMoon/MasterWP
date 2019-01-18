@@ -8,7 +8,7 @@
 /**
  *
  */
-var MWP_NaturalLanguageForm = (function() {
+var MWP_NaturalLanguageForm = ( function() {
 
 	"use strict";
 
@@ -54,6 +54,7 @@ var MWP_NaturalLanguageForm = (function() {
 				function( e ) {
 
 					e.preventDefault();
+					e.stopPropagation();
 
 					// Hide all menus.
 					hideOptionBoxes();
@@ -63,7 +64,7 @@ var MWP_NaturalLanguageForm = (function() {
 
 				}
 
-			)
+			);
 
 			// When an option is selected update the displayed text.
 			$options.find( 'a' ).on(
@@ -71,6 +72,7 @@ var MWP_NaturalLanguageForm = (function() {
 				function( e ) {
 
 					e.preventDefault();
+					e.stopPropagation();
 
 					var $this = $( this );
 					var $parent = $this.closest( '.nl-inline' );
@@ -94,10 +96,24 @@ var MWP_NaturalLanguageForm = (function() {
 					$( 'body' ).trigger( 'nl:change' );
 
 				}
-			)
+			);
+
 		});
 
-	}
+		$( document ).on(
+			'click',
+			function( e ) {
+
+				e.preventDefault();
+
+				console.log( 'click' );
+
+				hideOptionBoxes();
+
+			}
+		);
+
+	};
 
 
 	/**
@@ -107,16 +123,21 @@ var MWP_NaturalLanguageForm = (function() {
 
 		$( '.nl-inline ul' ).removeClass( 'nl-display' );
 
-	}
+	};
 
 	/**
 	 * Initialize everything.
 	 */
 	var init = function() {
 
+		if ( ! $( 'select.nl-select' ).length ) {
+			console.log( 'no natural language' );
+			return;
+		}
+
 		convertSelectBoxes();
 
-	}
+	};
 
 
 	/**

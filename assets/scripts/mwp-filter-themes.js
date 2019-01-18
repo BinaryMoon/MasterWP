@@ -126,6 +126,16 @@ var MWP_FilterThemes = (function() {
 	 */
 	var init = function() {
 
+		// Grab themes list.
+		$themes = $( '.themes-list .theme' );
+
+		// Grab the message box deets.
+		$errorBox = $( '.message.no-themes' );
+
+		if ( ! $themes.length ) {
+			return;
+		}
+
 		// Listen for custom event triggered by the natural language form changing.
 		$( 'body' ).on(
 			'nl:change',
@@ -136,12 +146,6 @@ var MWP_FilterThemes = (function() {
 
 			}
 		);
-
-		// Grab themes list.
-		$themes = $( '.themes-list .theme' );
-
-		// Grab the message box deets.
-		$errorBox = $( '.message.no-themes' );
 
 	}
 
