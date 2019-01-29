@@ -1,0 +1,29 @@
+
+.content.swag {
+
+	background-image: url( /assets/images/tshirts-collection.png );
+	background-position: center;
+	background-size: 50%;
+
+	&:before {
+
+		background: lighten( $canvas-color, 12% );
+		position: absolute;
+		opacity: 0.9;
+		content: '';
+		top: ( $grid-line-height );
+		right: ( $grid-line-height );
+		bottom: ( $grid-line-height );
+		left: ( $grid-line-height );
+		z-index: 1;
+
+	}
+
+	.swagger {
+
+		position: relative;
+		z-index: 2;
+
+	}
+
+}
