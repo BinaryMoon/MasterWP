@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+	{% include head.html %}
+
+	<body class="{{ page.title | slugify }} {{ layout.body_class | slugify }}">
+
+		{{ content }}
+
+	</body>
+
+</html>
