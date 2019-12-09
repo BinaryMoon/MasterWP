@@ -1,6 +1,6 @@
 ---
-title: Classified Ads
-permalink: /classified-ads/
+title: MasterWP Ad
+permalink: /advert-payment/
 layout: no-cruft
 ---
 
