@@ -1,7 +1,9 @@
 ---
 title: MasterWP Ad
-permalink: /advert-payment/
+permalink: /classified-ad-payment/
 layout: no-cruft
+redirect_from:
+  - /advert-payment/
 ---
 
 <style type="text/css">
