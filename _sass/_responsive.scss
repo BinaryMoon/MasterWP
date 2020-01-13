@@ -151,6 +151,26 @@
 
 	}
 
+	.masthead {
+
+		span {
+
+			display: none;
+
+		}
+
+		nav {
+
+			a {
+
+				padding: ( $grid-line-height ) ( $grid-gutter / 4 );
+
+			}
+
+		}
+
+	}
+
 	.themes-list {
 
 		.theme {
