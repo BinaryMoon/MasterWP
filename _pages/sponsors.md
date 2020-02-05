@@ -18,35 +18,46 @@ The first issue of MasterWP was published on Wednesday February 2nd 2017, and a 
 
 ## Audience
 
-The MasterWP emails are targeted at WordPress professionals. Each email has an average of a 25% open rate, and a 10% click rate - both of which are very good for weekly email newsletters.
+The MasterWP emails are read by WordPress professionals, and we have significant influence in the WordPress community. 
+
+Emails are very well received, and get 25-35% open rate, and a 10% click rate - both of which are very good for weekly email newsletters.
 
 50% of our audience are from the USA, 10% are from the UK, the remaining 40% are spread around the world. This shows that our emails have a good reach with native English speaking users.
 
 ## Sponsorship
 
-Each issue of MasterWP is sponsored by a different company. Sponsors get:
+There are two options for sponsoring MasterWP: the main sponsor slot (you're the single main sponsor for four weeks, at the top of the email), and classified ads (you're one of many, for two weeks, and among multiple sponsors).
 
-* The sole advert spot in the issue(s) they sponsor ([see here](http://us13.campaign-archive2.com/?u=bf5d11ade9be022f552b86e69&id=51392b1447) for a preview).
+The main sponsor slot is our most popular option, and we'd recommend getting in touch to book early as this can get booked up.
+
+Here's a [sample recent issue showing the main sponsor slot](https://getellipsis.com/?mailpoet_router&endpoint=view_in_browser&action=view&data=WzUwLDAsMCwwLDAsMV0).
 
 You can see the [sponsor requirements]({{ site.baseurl }}{% link _pages/sponsor-requirements.md %}) here.
 
 ## Rates
 
-MasterWP is one of, if not *the* fastest growing communities in the WordPress space. We're currently offering sponsorship in blocks of issues: please email us (Ben and Alex) for rates, at [hello@masterwp.co](mailto:hello@masterwp.co)
+MasterWP is an exceptionally well read and respected in the WordPress space. We reach an influential cross-section of the WordPress community.
+
+The main sponsor slot is available in blocks of 4 issues. You're the sole main sponsor for this period, and we're currently charging GBP£500 for the block of 4 issues (+ VAT for UK + some EU businesses).
+
+If you'd like to book, please get in touch with Alex and Ben via email to discuss, at: [hello@masterwp.co](mailto:hello@masterwp.co).
+
+The classified ads are available in a block of 2 issues, and you'll be one of multiple classified ads. We're currently charging GBP£50 for the block of 2 issues (+ VAT for UK + some EU businesses). [You can self-serve book this here](https://getellipsis.typeform.com/to/AmLdAU) and we'll add you to the next available slot.
 
 ## Past Sponsors
 
-Past sponsors include (but are not limited to):
+We're extremely grateful to our sponsors! Past sponsors have included big and small businessses inside and outside the WordPress space:
 
 * [SiteGround](https://www.siteground.com/) - WordPress hosting
 * [Kinsta](https://kinsta.com) – WordPress hosting
-* [34SP](https://34sp.com/) - WordPress hosting
+* [WPMU DEV](https://premium.wpmudev.org/) - WordPress plugins
 * [Pro Theme Design](https://prothemedesign.com) - Premium WordPress Themes
-* [Anariel Design](http://anarieldesign.com) - Niche WordPress Themes
-* [WPZoom](http://wpzoom.com) - Quality WordPress Themes
-* [MH Themes](https://www.mhthemes.com/) - Magazine Theme Specialists
+* [Ahrefs](http://ahrefs.com) - SEO software
+* [Weglot](http://weglot.com) - WordPress plugin
+* [EasyWP](https://www.easywp.com/) - WordPress hosting
 * [MeksHQ](http://mekshq.com/) - WordPress Themes
 * [MailOptin](https://mailoptin.io/) - Email automation and lead generation
+* [MailPoet](https://mailoptin.io/) - Email marketing plugin
 
 ## Contact
 
