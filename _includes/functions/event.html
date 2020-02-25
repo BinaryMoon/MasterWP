@@ -4,6 +4,13 @@
 			{{ include.event.title | escape }}
 		</a>
 	</h3>
-	<p class="meta">{{ include.event.date_start | date_to_long_string: "ordinal" }} - {{ include.event.date_end | date_to_long_string: "ordinal" }}</p>
+	<p class="meta">
+		{% if include.event.date_end %}
+			{% assign date_start = include.event.date_start | date_to_long_string: "ordinal" | split: " " %}
+			{{ date_start[0] }} - {{ include.event.date_end | date_to_long_string: "ordinal" }}</p>
+		{% else %}
+			{{ include.event.date_start | date_to_long_string: "ordinal" }}
+		{% endif %}
+	</p>
 	<p>{{ include.event.description | truncate: 140 }}</p>
 </li>
