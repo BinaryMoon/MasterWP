@@ -1,0 +1,7 @@
+---
+website: https://2020.us.wordcamp.org/
+title: WordCamp US 2020
+description: The original WordCamp, hosted in St. Louis.
+date_start: 2020-10-27
+date_end: 2020-10-29
+---
