@@ -1,16 +1,21 @@
 <li>
 	<h3 class="event-name">
+		<!-- https://github.com/lipis/flag-icon-css/tree/master/flags/1x1 -->
 		<a href="{{ include.event.website | escape }}" class="event-url">
-			{{ include.event.title | escape }}
+			{{ include.event.title | escape | trim }}
 		</a>
+		{% capture flag %}/assets/flags/{{ include.event.country_code | default: "gb" | downcase }}.svg{% endcapture %}
+		<img src="{{ flag | absolute_url }}" class="event-flag" alt="*" />
 	</h3>
 	<p class="meta">
 		{% if include.event.date_end %}
 			{% assign date_start = include.event.date_start | date_to_long_string: "ordinal" | split: " " %}
-			{{ date_start[0] }} - {{ include.event.date_end | date_to_long_string: "ordinal" }}</p>
+			{{ date_start[0] }} - {{ include.event.date_end | date_to_long_string: "ordinal" }}
 		{% else %}
 			{{ include.event.date_start | date_to_long_string: "ordinal" }}
 		{% endif %}
+		<span>&bull;</span>
+		{{ include.event.location }}
 	</p>
 	<p>{{ include.event.description | truncate: 140 }}</p>
 </li>
