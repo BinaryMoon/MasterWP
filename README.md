@@ -8,9 +8,9 @@ The events page lists events that are suitable for WordPress Masters. Obviously 
 
 Please feel free to make a pull request to your event. We reserve the right to pick and choose what events we include. The project owners decision is final.
 
-To add a new [event/ conference](https://masterwp.co/events/) we need to add a new even markdown file to the `_events` directory. The filename should be unique to your event. The string should be lowercase with spaces replaced with dashes. The year (or date if more than one even per year) should be added at the end.
+To add a new [event/ conference](https://masterwp.co/events/) we need to add a new even markdown file to the `_events` directory. The filename should be unique to your event. The string should be lowercase with spaces replaced with dashes. The year (or date if more than one event per year) should be added at the end.
 
-For example WordCamp US 2020 - will use the markdown file `wordcamp-us-2020.md`.
+For example _WordCamp US 2020_ - will use the markdown file `wordcamp-us-2020.md`.
 
 The file should look something like this:
 
