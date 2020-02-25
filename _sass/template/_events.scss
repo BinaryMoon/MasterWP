@@ -1,0 +1,19 @@
+.events-list {
+
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+
+	li {
+
+		margin-bottom: $grid-line-height * 2;
+
+	}
+
+	.meta {
+
+		@include post-meta-data;
+
+	}
+
+}
