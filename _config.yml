@@ -32,6 +32,9 @@ collections:
   theme-developers:
     output: true
     permalink: /wordpress-theme-developers/:name/
+  events:
+    output: false
+    sort_by: date_start
 
 # Default properties
 defaults:
