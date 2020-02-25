@@ -13,6 +13,29 @@
 	.meta {
 
 		@include post-meta-data;
+		margin-bottom: $grid-line-height / 2;
+
+		span {
+
+			margin: 0 ( $grid-gutter / 4 );
+
+		}
+
+	}
+
+	.event-name {
+
+		margin-bottom: 0;
+
+	}
+
+	.event-flag {
+
+		border-radius: 5rem;
+		width: 1.75rem;
+		height: 1.75rem;
+		margin-left: 0.5rem;
+		vertical-align: text-top;
 
 	}
 
