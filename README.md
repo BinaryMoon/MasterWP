@@ -26,17 +26,23 @@ date_end: 2019-06-22
 ---
 ```
 
-### date_start and date_end
+### Fields
+
+#### date_start and date_end
 
 The date fields should be in the format `YYYY-MM-DD`.
 
 The `date_start` field is always required. The `date_end` field is optional. This should only be used if the event is multiple days. The event details will adjust themselves automatically based on the information provided.
 
-### location and country_code
+#### location and country_code
 
 The `location` field is displayed under the event title.
 
-The `country_code` field is used to display the flag image. You can find the country code for the relevant flag in the [flags folder](https://github.com/BinaryMoon/MasterWP/tree/master/assets/flags).
+The `country_code` field is used to display the flag image. You can find the country code for the relevant flag in the [flags folder](https://github.com/BinaryMoon/MasterWP/tree/master/assets/flags), you can also use the list on [worldatlas.com](https://www.worldatlas.com/aatlas/ctycodes.htm). If you leave out the country code then the UK flag will be used instead.
+
+#### description
+
+The description is limited to 140 characters.
 
 ## Adding a new theme
 
