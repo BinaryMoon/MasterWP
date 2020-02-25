@@ -2,6 +2,24 @@
 
 A Jekyll site that powers the [MasterWP](https://masterwp.co) website.
 
+## Adding Events and Conferences
+
+To add a new [event/ conference](https://masterwp.co/events/) we need to add a new even markdown file to the `_events` directory. The filename should be unique to your event. The string should be lowercase with spaces replaced with dashes. The year (or date if more than one even per year) should be added at the end.
+
+For example WordCamp US 2020 - will use the markdown file `wordcamp-us-2020.md`.
+
+The file should look something like this:
+
+```
+---
+website: https://2020.us.wordcamp.org/
+title: WordCamp US 2020
+description: The original WordCamp, hosted in St. Louis.
+date_start: 2020-10-27
+date_end: 2020-10-29
+---
+```
+
 ## Adding a new theme
 
 Themes are listed on the [WordPress themes](https://masterwp.co/wordpress-themes/) page.
