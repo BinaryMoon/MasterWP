@@ -1,0 +1,9 @@
+<li>
+	<h3 class="event-name">
+		<a href="{{ include.event.website | escape }}" class="event-url">
+			{{ include.event.title | escape }}
+		</a>
+	</h3>
+	<p>{{ include.event.description | truncate: 140 }}</p>
+	<p>{{ include.event.date_start | date_to_long_string: "ordinal" }}</p>
+</li>

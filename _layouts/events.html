@@ -1,0 +1,30 @@
+---
+layout: default
+body_class: events
+---
+
+<div class="content">
+
+	<h1>Conferences &amp; Events</h1>
+
+	{{ content }}
+
+</div>
+
+<div class="content">
+
+	<ul class="events-list">
+
+		{% capture now %}{{'now' | date: '%s' | plus: 0 }}{% endcapture %}
+		{% for event in site.events %}
+
+			{% capture date %}{{ event.date_start | date: '%s' | plus: 0 }}{% endcapture %}
+			{% if date > now %}
+				{% include functions/event.html event=event %}
+			{% endif %}
+
+		{% endfor %}
+
+	</ul>
+
+</div>
