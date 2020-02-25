@@ -16,13 +16,27 @@ The file should look something like this:
 
 ```
 ---
-website: https://2020.us.wordcamp.org/
-title: WordCamp US 2020
-description: The original WordCamp, hosted in St. Louis.
-date_start: 2020-10-27
-date_end: 2020-10-29
+website: https://2019.europe.wordcamp.org/
+title: WordCamp Europe 2019
+country_code: de
+location: Berlin, Germany
+description: Join the European WordPress Community for 3 days of learning, sharing and fun.
+date_start: 2019-06-20
+date_end: 2019-06-22
 ---
 ```
+
+### date_start and date_end
+
+The date fields should be in the format `YYYY-MM-DD`.
+
+The `date_start` field is always required. The `date_end` field is optional. This should only be used if the event is multiple days. The event details will adjust themselves automatically based on the information provided.
+
+### location and country_code
+
+The `location` field is displayed under the event title.
+
+The `country_code` field is used to display the flag image. You can find the country code for the relevant flag in the [flags folder](https://github.com/BinaryMoon/MasterWP/tree/master/assets/flags).
 
 ## Adding a new theme
 
