@@ -1,5 +1,5 @@
 ---
-website: https://2020.us.wordcamp.org/
+website: https://js-kongress.com/
 title: JS Kongress 2020
 country_code: de
 location: Munich, Germany

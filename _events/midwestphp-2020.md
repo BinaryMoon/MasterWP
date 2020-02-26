@@ -1,5 +1,5 @@
 ---
-website: https://2020.us.wordcamp.org/
+website: https://midwestphp.org/
 title: Midwest PHP 2020
 country_code: us
 location: Mineapolis, MN, USA
