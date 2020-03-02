@@ -1,14 +1,13 @@
 <li>
 <p><strong><a href="{{ include.event.website | escape }}" class="event-url">{{ include.event.title | escape | trim }}</a></strong></p>
 <p class="meta"><em>
-	{% if include.event.date_end %}
-		{% assign date_start = include.event.date_start | date_to_long_string: "ordinal" | split: " " %}
-		{{ date_start[0] }} - {{ include.event.date_end | date_to_long_string: "ordinal" }}
-	{% else %}
-		{{ include.event.date_start | date_to_long_string: "ordinal" }}
-	{% endif %}
-	<span>&bull;</span>
-	{{ include.event.location }}
+{% if include.event.date_end %}{% assign date_start = include.event.date_start | date_to_long_string: "ordinal" | split: " " %}
+{{ date_start[0] }} - {{ include.event.date_end | date_to_long_string: "ordinal" }}
+{% else %}
+{{ include.event.date_start | date_to_long_string: "ordinal" }}
+{% endif %}
+<span>&bull;</span>
+{{ include.event.location }}
 </em></p>
 <p>{{ include.event.description | truncate: 140 }}</p>
 </li>
