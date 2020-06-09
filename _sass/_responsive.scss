@@ -153,12 +153,6 @@
 
 	.masthead {
 
-		span {
-
-			display: none;
-
-		}
-
 		nav {
 
 			a {
@@ -172,6 +166,18 @@
 				display: none;
 
 			}
+
+			span {
+
+				display: none;
+
+			}
+
+		}
+
+		img {
+
+			max-height: 6rem;
 
 		}
 

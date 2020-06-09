@@ -1,6 +1,6 @@
 footer {
 
-	padding: ( $grid-line-height * 2 ) 0 ( $grid-line-height * 6 ) 0;
+	padding: ( $grid-line-height * 2 ) ( $grid-gutter / 4 ) ( $grid-line-height * 6 ) ( $grid-gutter / 4 );
 
 	nav,
 	.copyright {
@@ -9,6 +9,7 @@ footer {
 		text-align: center;
 		opacity: 0.6;
 		margin-bottom: $grid-line-height;
+		line-height: 2.5;
 
 		&:hover {
 
