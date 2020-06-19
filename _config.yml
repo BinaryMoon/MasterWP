@@ -12,7 +12,8 @@ repository: BinaryMoon/MasterWP
 permalink: /blog/:year/:title/
 google_analytics: UA-55722-24
 logo: /assets/images/favicon-192.png
-subscribers: "3,513"
+subscription_link: /#newsletter-signup
+subscribers: "3,790"
 enable_countdown: true
 
 # Build settings
