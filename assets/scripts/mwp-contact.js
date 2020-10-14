@@ -1,7 +1,7 @@
 /**
  *
  */
-var MWP_Contact = (function() {
+var MWP_Contact = ( function() {
 
 	var init = function() {
 
@@ -16,28 +16,11 @@ var MWP_Contact = (function() {
 	 */
 	var addEmails = function() {
 
-		console.log( 'add emails' );
-
 		$( 'form.formspree' ).each(
 			function() {
 
 				var $this = $( this );
-				var email = $this.data( 'email' );
-
-				// If there is a custom email address use that. Else use support at ptd.
-				if ( email ) {
-
-					// Do some replacements for basic obfuscation.
-					email = email.replace( '-at-', '@' );
-					email = email.replace( '-dot-', '.' );
-
-				} else {
-
-					email = 'hello' + '@' + 'masterwp' + '.' + 'co';
-
-				}
-
-				$this.attr( 'action', '//formspree.io/' + email );
+				$this.attr( 'action', 'https://formspree.io/f/xrgobddn' );
 
 			}
 		);
@@ -79,4 +62,4 @@ var MWP_Contact = (function() {
 		init: init
 	};
 
-}());
+}() );
