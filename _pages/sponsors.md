@@ -18,7 +18,7 @@ The first issue of MasterWP was published on Wednesday February 2nd 2017, and a 
 
 ## Audience
 
-The MasterWP emails are read by WordPress professionals, and we have significant influence in the WordPress community. 
+The MasterWP emails are read by WordPress professionals, and we have significant influence in the WordPress community.
 
 Emails are very well received, and get 25-35% open rate, and a 10% click rate - both of which are very good for weekly email newsletters.
 
@@ -30,26 +30,27 @@ There are two options for sponsoring MasterWP: the main sponsor slot (you're the
 
 The main sponsor slot is our most popular option, and we'd recommend getting in touch to book early as this can get booked up.
 
-Here's a [sample recent issue showing the main sponsor slot](https://getellipsis.com/?mailpoet_router&endpoint=view_in_browser&action=view&data=WzUwLDAsMCwwLDAsMV0).
+Here's a [sample issue showing the main sponsor slot](https://getellipsis.com/?mailpoet_router&endpoint=view_in_browser&action=view&data=WzUwLDAsMCwwLDAsMV0).
 
-You can see the [sponsor requirements]({{ site.baseurl }}{% link _pages/sponsor-requirements.md %}) here.
+You can see the [sponsor requirements]({% link _pages/sponsor-requirements.md %}) here.
 
 ## Rates
 
-MasterWP is an exceptionally well read and respected in the WordPress space. We reach an influential cross-section of the WordPress community.
+MasterWP is exceptionally well read and respected in the WordPress space. We reach an influential cross-section of the WordPress community.
 
-The main sponsor slot is available in blocks of 4 issues. You're the sole main sponsor for this period, and we're currently charging GBP£500 for the block of 4 issues (+ VAT for UK + some EU businesses).
+The main sponsor slot is available in blocks of 4 issues. You're the sole main sponsor for this period, and we're currently charging GBP£500 for the block of 4 issues (+ VAT for UK & some EU businesses).
 
-If you'd like to book, please get in touch with Alex and Ben via email to discuss, at: [hello@masterwp.co](mailto:hello@masterwp.co).
+If you'd like to book, please [get in touch with Alex and Ben to discuss]({% link _pages/contact.md %}).
 
-The classified ads are available in a block of 2 issues, and you'll be one of multiple classified ads. We're currently charging GBP£50 for the block of 2 issues (+ VAT for UK + some EU businesses). [You can self-serve book this here](https://getellipsis.typeform.com/to/AmLdAU) and we'll add you to the next available slot.
+The classified ads are available in a block of 2 issues, and you'll be one of multiple classified ads. We're currently charging GBP£50 for 2 issues (+ VAT for UK & some EU businesses). [You can self-serve book this here](https://getellipsis.typeform.com/to/AmLdAU) and we'll add you to the next available issue.
 
 ## Past Sponsors
 
 We're extremely grateful to our sponsors! Past sponsors have included big and small businessses inside and outside the WordPress space:
 
+* [GoDaddy](https://godaddy.com/) - WordPress hostings
 * [SiteGround](https://www.siteground.com/) - WordPress hosting
-* [Kinsta](https://kinsta.com) – WordPress hosting
+* [Kinsta](https://kinsta.com) - WordPress hosting
 * [WPMU DEV](https://premium.wpmudev.org/) - WordPress plugins
 * [Pro Theme Design](https://prothemedesign.com) - Premium WordPress Themes
 * [Ahrefs](http://ahrefs.com) - SEO software
@@ -61,6 +62,6 @@ We're extremely grateful to our sponsors! Past sponsors have included big and sm
 
 ## Contact
 
-If you would like to sponsor, or have some questions, then please email us (Ben and Alex) at [hello@masterwp.co](mailto:hello@masterwp.co).
+If you would like to sponsor, or have some questions, then please [email us (Ben and Alex)]({% link _pages/contact.md %}).
 
-P.S. And if you have a WordPress business looking for marketing help, then <a href="https://getellipsis.com">get in touch with Alex's company, which solves marketing problems for WordPress businesses</a>.
+P.S. And if you have a WordPress business looking for marketing help, then [get in touch with Alex's company, which solves marketing problems for WordPress businesses](https://getellipsis.com).
