@@ -1,7 +1,7 @@
 /**
  * Countdown to a set date.
  */
-var MWP_Countdown = (function() {
+var MWP_Countdown = ( function() {
 
 	var $clock = null;
 
@@ -15,7 +15,12 @@ var MWP_Countdown = (function() {
 	 */
 	var init = function( id ) {
 
-		endtime = NextDeadline();
+		var endtime = NextDeadline();
+
+		if ( !endtime ) {
+			$( '.next-issue' ).hide();
+			return;
+		}
 
 		$clock = $( id ).find( '.countdown-time' );
 
@@ -75,7 +80,11 @@ var MWP_Countdown = (function() {
 	 */
 	var NextDeadline = function() {
 
-		return next_issue.timestamp * 1000;
+		if ( 'undefined' !== typeof next_issue ) {
+			return next_issue.timestamp * 1000;
+		}
+
+		return false;
 
 	};
 
@@ -114,4 +123,4 @@ var MWP_Countdown = (function() {
 		init: init
 	};
 
-}());
+}() );
