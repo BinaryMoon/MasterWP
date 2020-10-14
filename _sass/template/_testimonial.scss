@@ -1,54 +1,18 @@
-.testimonials {
 
-	position: relative;
-
-	.testimonial {
-
-		display: none;
-
-		&.current {
-
-			display: block;
-
-		}
-
-	}
-
-	nav {
-
-		position: absolute;
-		right: 0;
-		top: $grid-line-height * -3.25;
-
-		.tab {
-
-			display: none;
-
-		}
-
-		.arrow {
-
-			background: transparent;
-			padding: 0;
-			width: 3rem;
-			height: 3rem;
-			color: black;
-			font-size: 2rem;
-			box-shadow: none;
-
-		}
-
-	}
-
-}
-
-.testimonial blockquote {
+.testimonial {
 
 	$testimonialIconSize: 2rem;
 
+	display: flex;
 	padding: 0;
-	margin: 0;
+	margin: 0 0 ( $grid-line-height * 2 ) 0;
 	overflow: visible;
+
+	.avatar {
+
+		width: 100%;
+
+	}
 
 	p {
 
