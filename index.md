@@ -6,8 +6,8 @@ short_description: A weekly newsletter for WordPress Masters.
 redirect_from:
   - /newsletter/
 ---
-MasterWP is a quality email newsletter sent every Wednesday, for WordPress professionals. Each week get a collection of apps, tools and links that will make life better and provoke thought.
+MasterWP is a quality email newsletter, sent at 3pm GMT every Wednesday, for WordPress professionals. Each week get a collection of apps, tools and links that will make life better and provoke thought.
 
 No affiliates, no filler, no noise, just the good stuff.
 
-You're in good company: sign up now to join **{{ site.subscribers }}** other subscribers. Plus, it's free, and you can unsubscribe any time 😄
+Join **{{ site.subscribers }}** other global subscribers and subscribe to our FREE weekly round-up of news and insights that you can't afford to miss. 👍
