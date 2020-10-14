@@ -6,6 +6,17 @@ body {
 
 }
 
+@media screen and (prefers-reduced-motion: no-preference) {
+
+	body,
+	html {
+
+		scroll-behavior: smooth;
+
+	}
+
+}
+
 a {
 
 	color: $canvas-blue;
@@ -183,6 +194,23 @@ svg {
 		height: auto;
 		width: auto;
 		z-index: layer( top );
+
+	}
+
+}
+
+.read-by-logos {
+
+	display: flex;
+	flex-wrap: wrap;
+	margin: 0 -1rem;
+
+	img {
+
+		width: 20%;
+		max-width: 100%;
+		margin: 1rem;
+		flex-grow: 1;
 
 	}
 

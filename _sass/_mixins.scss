@@ -42,7 +42,7 @@
     text-decoration: none;
     border-radius: $border-radius;
     border: none;
-    padding: ( $grid-line-height / 2 ) ( $grid-gutter );
+    padding: ( $grid-line-height / 2 ) ( $grid-gutter / 2 );
     text-transform: uppercase;
     letter-spacing: $font-uppercase-spacing;
     text-align: center;
