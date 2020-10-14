@@ -7,22 +7,28 @@
 
 		@include post-meta-data;
 		text-align: center;
-		background: lighten( $canvas-color, 8% );
+		padding: ( $grid-line-height / 2 ) 0;
 
 		a {
 
 			display: inline-block;
-			padding: ( $grid-line-height ) ( $grid-gutter / 2 );
-			//color: $canvas-white;
+			padding: ( $grid-line-height / 2 ) ( $grid-gutter / 3 );
+			border-radius: $border-radius;
 
 		}
 
 		span {
 
-			//color: $canvas-white;
 			opacity: 0.4;
 
 		}
+
+	}
+
+	.nav-subscribe {
+
+		background: $canvas-red;
+		color: $canvas-white;
 
 	}
 
