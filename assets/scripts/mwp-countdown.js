@@ -1,5 +1,9 @@
 /**
  * Countdown to a set date.
+ *
+ * The date is loaded from a file on prothemedesign.com
+ *
+ * @see https://demo.prothemedesign.com/masterwp/
  */
 var MWP_Countdown = ( function() {
 
@@ -15,7 +19,8 @@ var MWP_Countdown = ( function() {
 	 */
 	var init = function( id ) {
 
-		var endtime = NextDeadline();
+		// Don't reinitisalise since it will overwrite the global variable.
+		endtime = NextDeadline();
 
 		if ( !endtime ) {
 			$( '.next-issue' ).hide();
@@ -98,6 +103,7 @@ var MWP_Countdown = ( function() {
 	getTimeRemaining = function( endtime ) {
 
 		// Calculate duration remaining.
+		var newDate = Date.parse( new Date() );
 		var t = endtime - Date.parse( new Date() );
 		var seconds = Math.floor( ( t / 1000 ) % 60 );
 		var minutes = Math.floor( ( t / 1000 / 60 ) % 60 );
@@ -106,6 +112,8 @@ var MWP_Countdown = ( function() {
 
 		// Return time remaining in parts for easy display.
 		return {
+			'endtime': endtime,
+			'newDate': newDate,
 			'total': t,
 			'days': days,
 			'hours': hours,
