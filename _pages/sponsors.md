@@ -58,7 +58,7 @@ We're extremely grateful to our sponsors! Past sponsors have included big and sm
 * [EasyWP](https://www.easywp.com/) - WordPress hosting
 * [MeksHQ](http://mekshq.com/) - WordPress Themes
 * [MailOptin](https://mailoptin.io/) - Email automation and lead generation
-* [MailPoet](https://mailoptin.io/) - Email marketing plugin
+* [MailPoet](https://www.mailpoet.com/) - Email marketing plugin
 
 ## Contact
 
