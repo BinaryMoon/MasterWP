@@ -1,5 +1,5 @@
 source "https://rubygems.org"
-ruby RUBY_VERSION
+ruby "3.0.0"
 
 #     bundle exec jekyll serve
 
