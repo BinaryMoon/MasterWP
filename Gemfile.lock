@@ -46,7 +46,7 @@ GEM
     ffi (1.15.3)
     forwardable-extended (2.6.0)
     gemoji (3.0.1)
-    github-pages (216)
+    github-pages (217)
       github-pages-health-check (= 1.17.2)
       jekyll (= 3.9.0)
       jekyll-avatar (= 0.7.0)
@@ -208,6 +208,7 @@ GEM
       unf_ext
     unf_ext (0.0.7.7)
     unicode-display_width (1.7.0)
+    webrick (1.7.0)
     zeitwerk (2.4.2)
 
 PLATFORMS
@@ -215,6 +216,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  webrick
 
 RUBY VERSION
    ruby 3.0.0p0
