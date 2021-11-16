@@ -38,7 +38,7 @@ You can see the [sponsor requirements]({% link _pages/sponsor-requirements.md %}
 
 MasterWP is exceptionally well read and respected in the WordPress space. We reach an influential cross-section of the WordPress community.
 
-The main sponsor slot is available in blocks of 4 issues. You're the sole main sponsor for this period, and we're currently charging GBP£500 for the block of 4 issues (+ VAT for UK & some EU businesses).
+The main sponsor slot is available in blocks of 4 issues. You're the sole main sponsor for this period.
 
 If you'd like to book, please [get in touch with Alex and Ben to discuss]({% link _pages/contact.md %}).
 
