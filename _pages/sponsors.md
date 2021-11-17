@@ -24,6 +24,8 @@ Emails are very well received, and get 25-35% open rate, and a 10% click rate - 
 
 50% of our audience are from the USA, 10% are from the UK, the remaining 40% are spread around the world. This shows that our emails have a good reach with native English speaking users.
 
+You can see a [breakdown of our reader demographics](https://getellipsis.typeform.com/report/xcJFV5/amAJApykPXUGKzgC) in this reader survey we ran.
+
 ## Sponsorship
 
 There are two options for sponsoring MasterWP: the main sponsor slot (you're the single main sponsor for four weeks, at the top of the email), and classified ads (you're one of many, for two weeks, and among multiple sponsors).
